@@ -43,7 +43,6 @@ The cleaning followed a deliberate order, since each step depends on the one bef
 - Not all missing values should be filled the same way — the right strategy depends on whether a column is numeric, categorical, or a unique identifier.
 - Verifying assumptions against the actual data (e.g., checking a date value with day > 12 to confirm format) is safer than assuming a standard format upfront.
 - Sometimes the most honest choice is to leave data missing rather than fabricate a plausible-looking value.
-<img width="1920" height="1080" alt="Screenshot 2026-07-06 023425" src="https://github.com/user-attachments/assets/fac2b77a-c922-4df8-ba8f-68c95fce18bc" />
 
 ## 🛠️ Tools Used
 
@@ -56,3 +55,4 @@ The cleaning followed a deliberate order, since each step depends on the one bef
 - `Pandas_Challenge.ipynb` — full cleaning workflow with step-by-step code
 - `messy_employee_data.csv` — original raw dataset
 - `cleaned_employee_data.csv` — final cleaned dataset
+  <img width="1920" height="1080" alt="Screenshot 2026-07-06 023425" src="https://github.com/user-attachments/assets/fac2b77a-c922-4df8-ba8f-68c95fce18bc" />
