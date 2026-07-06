@@ -1,0 +1,1091 @@
+EmployeeID,Name,Age,City,Department,Salary,JoinDate,Email,PerformanceRating,ExperienceYears
+1714,Pooja Reddy,36,Mumbai,Operations,,2020-02-16,pooja.reddy28@gmail.com,4.0,14.1
+1978,Yash Malhotra,25,  Bangalore,Hr,75830,11/27/2016,yash.malhotra25@gmail.com,3.0,19.6
+1936,Swati Malhotra,,Nagpur,IT,57068,25 Jan 2019,swati.malhotra79@gmail.com,5.0,12.6
+1866,Harsh Verma,28,MUMBAI,HR,58455,2017-01-10,harsh.verma88@gmail.com,1.0,9.7
+1700,Tanvi Rao,37,pune,IT ,43332,2015-06-28,tanvi.rao94@gmail.com,5.0,20.0
+1736,Abhishek Rao,28,Delhi,Finance,95997,2016-12-06,abhishek.rao19@gmail.com,4.0,1.9
+1099,Rahul Saxena,49,Chennai,IT,89397,2020-07-11,rahul.saxena15@gmail.com,,10.4
+1403,Vikram Pillai,32,Hyderabad,Operations,101522,25-02-2024,vikram.pillai99@gmail.com,4.0,13.2
+1357,Shreya Verma,37,Mumbai,sales,46302,2024-07-06,shreya.verma70@gmail.com,2.0,2.1
+1755,Meera Kapoor,52,Delhi ,Hr,"₹149,714",2023-06-01,meera.kapoor65@gmail.com,3.0,9.8
+1034,Nikhil Iyer,23,,Marketing,22671,08-03-2024,nikhil.iyer73@gmail.com,4.0,15.3
+1525,Ananya Malhotra,24,Chennai,IT,,27 Jan 2021,ananya.malhotra78@gmail.com,5.0,14.0
+1090,Bhavna Mehta,29,Pune,sales,38191,,bhavnamehtagmail.com,2.0,14.5
+1523,Karan Singh,twenty five,Delhi,Finance,"₹23,888",2024-04-16,karan.singh2@gmail.com,,0.1
+1983,Gaurav Kumar,47,pune,HR,92805,2016-12-28,gaurav.kumar61@gmail.com,1.0,11.3
+1742,Abhishek Gupta,53,Delhi,Hr,90481,2016-01-15,abhishek.gupta33@gmail.com,2.0,13.0
+1053,Amit Chopra,55,Hyderabad,Operations,148552,13-10-2018,amit.chopra6@gmail.com,4.0,16.2
+1851,Kirti Pillai,39,Delhi ,Marketing,"₹34,058",20-01-2015,,1.0,7.6
+1200,Gaurav Rao,38,Nagpur,IT,"₹65,061",2023-07-25,gaurav.rao50@gmail.com,4.0,13.7
+2047,Nikhil Desai,35,Nagpur,Hr,142225,06-09-2015,,4.0,9.5
+1806,Ritu Reddy,52,Bangalore,IT ,,3/22/2022,ritureddygmail.com,2.0,9.8
+1835,Simran Kapoor,31,Kolkata,Sales,33895,2016-06-23,simran.kapoor31@gmail.com,4.0,8.3
+1054,Deepak Kumar,23,Mumbai,Operations,134581,17 Jan 2022,,2.0,five
+2026,Sohail Singh,,Nagpur,sales,64949.00 INR,12/17/2025,sohail.singh26@gmail.com,2.0,
+1732,Komal Desai,59,Nagpur,Sales,52760,2017-10-21,komaldesaigmail.com,5.0,13.1
+1712,Rahul Iyer,53,Delhi,Finance,72527,2024-01-06,rahul.iyer77@gmail.com,5.0,19.4
+1108,Rakesh Mehta,31,Kolkata,sales,60441,3 Jan 2022,rakesh.mehta31@gmail.com,3.0,
+1471,Vishal Pillai,55,Delhi,IT,136991,22-08-2025,vishal.pillai49@gmail.com,3.0,16.8
+1926,Sameer Bhat,26,Delhi ,Hr,92399,4 Jan 2025,sameer.bhat6@gmail.com,4.0,6.7
+1164,Vishal Chopra,52,Chennai,IT,80089,2025-11-23,,2.0,16.5
+1635,Simran Gupta,50 yrs,MUMBAI,Operations,76055,2022-07-14,simran.gupta4@gmail.com,4.0,2.8
+1222,Kirti Reddy,51,Chennai,Sales,138866,2016-10-22,kirti.reddy66@gmail.com,,18.1
+1839,Kirti Rao,38,Delhi,Marketing,56203,6/28/2017,kirti.rao29@gmail.com,3.0,12.4
+1867,Aman Malhotra,32,Delhi ,Finance,64573,2025-10-28,aman.malhotra90@gmail.com,1.0,2.8
+1872,Sameer Patel,25,Nagpur,IT ,67411,14-05-2018,sameer.patel42@gmail.com,1.0,14.5
+1631,Nikhil Joshi,-20,Kolkata,HR,39690,2023-05-20,nikhil.joshi63@gmail.com,3.0,
+1613,Deepak Joshi,54,Jaipur,Finance,144029,19 Jan 2025,deepak.joshi97@gmail.com,3.0,1.0
+1097,Anita Mehta,40,Kolkata,IT ,78183,8/2/2020,anita.mehta79@gmail.com,3.0,15.8
+1747,Sandeep Pillai,32,Delhi,Finance,"₹132,987",6/21/2022,sandeep.pillai25@gmail.com,2.0,10.0
+1189,Mohit Iyer,24,Delhi ,Marketing,148799,27 Jan 2021,mohit.iyer31@gmail.com,3.0,0.6
+1123,Sohail Pillai,59,Chennai,Hr,119267,27-11-2023,sohail.pillai97@gmail.com,1.0,10.6
+1522,Ananya Singh,33,Kolkata,IT,126741,07-03-2018,ananya.singh98@gmail.com,4.0,18.3
+1846,Sneha Iyer,23,Jaipur,HR,38045,2023-06-11,sneha.iyer51@gmail.com,,9.8
+2033,Anjali Rao,40,Nagpur,sales,122023,2020-06-10,anjali.rao32@gmail.com,1.0,16.2
+1446,Pooja Reddy,22,Chennai,Operations,42900,26-01-2023,pooja.reddy80@gmail.com,5.0,5.2
+1153,Meera Kumar,42,Kolkata,Hr,82411,8/24/2016,meera.kumar39@gmail.com,,0.5
+1489,Rekha Desai,54,Kolkata,Operations,83346,2022-08-09,rekha.desai75@gmail.com,2.0,4.1
+1701,Arjun Malhotra,21,Jaipur,Hr,96832,4 Jan 2019,arjun.malhotra65@gmail.com,5.0,12.9
+1795,Rajesh Malhotra,29,  Bangalore,IT,43253,16-05-2021,rajesh.malhotra26@gmail.com,1.0,15.0
+1046,Rekha Kumar,30,Delhi,Finance,128034,15-05-2024,rekha.kumar90@gmail.com,3.0,9.9
+1747,Sandeep Pillai,32,Delhi,Finance,"₹132,987",6/21/2022,sandeep.pillai25@gmail.com,2.0,10.0
+1244,Payal Mehta,,Delhi,Finance,95361,2018-05-14,payal.mehta56@gmail.com,4.0,10.7
+1194,Suresh Agarwal,N/A,Kolkata,IT,148762,21 Jan 2020,sureshagarwalgmail.com,3.0,5.3
+1447,Shreya Chopra,56,Bangalore,Hr,33650,2015-08-26,shreya.chopra15@gmail.com,5.0,17.2
+1171,Arjun Malhotra,24,Delhi ,Marketing,34777,2018-08-21,arjun.malhotra2@gmail.com,3.0,17.2
+1921,Isha Reddy,51,Delhi ,IT,117602,2018-11-25,isha.reddy50@gmail.com,3.0,0.8
+1009,Sameer Bhat,29,pune,Hr,89163,7 Jan 2024,sameer.bhat89@gmail.com,3.0,13.4
+1414,Simran Kapoor,23,Jaipur,HR,,18-11-2019,simran.kapoor93@gmail.com,1.0,five
+1328,Isha Agarwal,22,  Bangalore,Operations,140885,8/16/2025,isha.agarwal62@gmail.com,4.0,10.7
+1652,Simran Pillai,35,Pune,Sales,126346,20 Jan 2018,simran.pillai95@gmail.com,,7.7
+1128,Rakesh Bhat,45,  Bangalore,sales,56129,25-12-2018,rakesh.bhat54@gmail.com,1.0,1.3
+1556,Sohail Malhotra,42,Pune,Marketing,145789,2025-05-04,sohail.malhotra88@gmail.com,3.0,15.6
+1571,Simran Iyer,46,Delhi,HR,125905,2015-10-04,,1.0,15.4
+1146,Deepak Sharma,45,Delhi ,Hr,148211,17-10-2018,deepak.sharma18@gmail.com,3.0,1.3
+1694,Komal Chopra,37,Kolkata,Operations,114388,3/17/2017,komal.chopra41@gmail.com,2.0,19.9
+1172,Yash Kapoor,32,Delhi ,IT,,,,5.0,14.3
+1023,Kavita Agarwal,37,Pune,IT ,123078,20 Jan 2020,kavita.agarwal74@gmail.com,1.0,0.0
+1125,Gaurav Verma,53,Hyderabad,Sales,108181,2019-12-01,gaurav.verma96@gmail.com,1.0,
+1737,Rekha Patel,52,Delhi ,Finance,110334,2022-06-26,rekha.patel36@gmail.com,2.0,5.8
+1140,Sameer Verma,N/A,Hyderabad,sales,,2/16/2017,sameer.verma43@gmail.com,1.0,18.4
+1849,Rekha Desai,34,Mumbai,IT ,117362,2018-04-25,rekha.desai89@gmail.com,5.0,7.2
+1204,Yash Saxena,32,Bangalore,IT ,,,yash.saxena35@gmail.com,1.0,15.9
+1830,Isha Agarwal,47,Ahmedabad,Marketing,128064,2020-12-08,isha.agarwal88@gmail.com,2.0,five
+1431,Ritu Agarwal,58,Jaipur,Sales,94814,03-07-2017,ritu.agarwal13@gmail.com,1.0,19.6
+1912,Kirti Nair,32,,Sales,113240,12-10-2020,kirti.nair99@gmail.com,5.0,3.0
+1372,Tanvi Iyer,N/A,  Bangalore,Marketing,129705,5/1/2022,tanvi.iyer32@gmail.com,4.0,17.8
+1970,Kirti Kapoor,30,Nagpur,Hr,58063,08-02-2015,kirti.kapoor68@gmail.com,2.0,4.7
+1862,Anjali Patel,twenty five,Kolkata,IT ,106715,2021-01-23,anjali.patel48@gmail.com,4.0,18.4
+1758,Deepak Sharma,,Chennai,Finance,96595,2025-06-18,deepak.sharma99@gmail.com,3.0,14.3
+1895,Neha Rao,25 yrs,Jaipur,IT,26962,13 Jan 2020,neha.rao10@gmail.com,3.0,11.0
+1950,Sameer Sharma,22,  Bangalore,Sales,"₹41,616",03-10-2025,sameer.sharma13@gmail.com,5.0,1.1
+1472,Vishal Sharma,-31,Jaipur,Marketing,119407,2019-11-23,vishalsharmagmail.com,3.0,4.4
+1776,Amit Singh,36,Hyderabad,IT ,45345,03-06-2018,amit.singh18@gmail.com,1.0,11.7
+1557,Isha Desai,45,Mumbai,IT,36531,,isha.desai7@gmail.com,3.0,11.9
+1454,Priya Sharma,55,Nagpur,Finance,149362,24-02-2023,priya.sharma81@gmail.com,1.0,
+1816,Rajesh Chopra,34,Hyderabad,IT,79286,14-10-2019,rajesh.chopra71@gmail.com,4.0,8.6
+1511,Pooja Kapoor,26,Pune,sales,39879,,pooja.kapoor77@gmail.com,4.0,6.6
+1113,Rekha Agarwal,24,Nagpur,Hr,101230,3/27/2021,,1.0,8.8
+1141,Suresh Reddy,57,Kolkata,IT,56749,,suresh.reddy41@gmail.com,,2.9
+1563,Rekha Reddy,49,Delhi,Hr,59515,4/18/2022,,5.0,17.8
+1259,Amit Singh,47,Nagpur,HR,86952,3/24/2019,amit.singh77@gmail.com,2.0,2.6
+1449,Sohail Gupta,49,Hyderabad,Sales,126056,2022-06-10,sohailguptagmail.com,4.0,13.3
+1591,Jyoti Iyer,56,Pune,IT,40736,28-07-2024,jyoti.iyer60@gmail.com,3.0,12.8
+1528,Rahul Kumar,26,Bangalore,Hr,81184,2017-08-04,rahul.kumar32@gmail.com,1.0,19.9
+1965,Naveen Gupta,47,Pune,Marketing,99920,02-03-2020,naveen.gupta16@gmail.com,5.0,10.8
+1760,Rohan Kapoor,35,Jaipur,Sales,137817.00 INR,27 Jan 2022,,2.0,8.9
+1618,Shreya Saxena,45,Bangalore,HR,35715,28-06-2017,shreya.saxena53@gmail.com,1.0,4.8
+1627,Pooja Pillai,N/A,,Finance,88848,25-03-2023,poojapillaigmail.com,3.0,14.7
+1420,Shreya Kapoor,27,  Bangalore,Finance,66118,10/24/2021,shreya.kapoor59@gmail.com,1.0,3.7
+1047,Anita Saxena,,Hyderabad,Finance,,19 Jan 2025,anita.saxena87@gmail.com,5.0,
+1744,Sameer Agarwal,27,Ahmedabad,Sales,103087,16-04-2016,sameeragarwalgmail.com,5.0,12.0
+1547,Nisha Chopra,39,Ahmedabad,IT,42380,06-07-2020,nisha.chopra69@gmail.com,4.0,2.6
+1812,Suresh Verma,25,Pune,sales,104513,2021-05-22,suresh.verma96@gmail.com,4.0,6.9
+1802,Nisha Verma,26,Bangalore,Hr,61111,,nisha.verma25@gmail.com,5.0,five
+1462,Rohan Sharma,40,Ahmedabad,Hr,"₹145,195",9/19/2024,rohan.sharma67@gmail.com,4.0,0.4
+1179,Pooja Rao,52,Delhi ,Hr,52129,,pooja.rao82@gmail.com,1.0,0.0
+1578,Harsh Iyer,58,MUMBAI,Marketing,50827,7 Jan 2020,,2.0,1.2
+1990,Sandeep Singh,41,,Marketing,78935,8/26/2015,sandeep.singh82@gmail.com,1.0,14.0
+1109,Ajay Pillai,51,Bangalore,IT,135665,12/12/2019,ajay.pillai52@gmail.com,,7.3
+1013,Vikram Rao,56,Delhi,Hr,147008,2016-04-06,vikram.rao52@gmail.com,2.0,19.7
+1379,Anita Patel,32,Bangalore,IT,not disclosed,2016-12-05,anita.patel67@gmail.com,1.0,19.4
+1374,Sameer Sharma,47,Jaipur,Finance,31892,22-08-2015,sameer.sharma74@gmail.com,1.0,9.3
+1962,Payal Gupta,59,Jaipur,IT,45950,2022-04-05,payal.gupta29@gmail.com,,0.7
+1677,Ritu Gupta,26,MUMBAI,IT,86461,2020-05-15,ritu.gupta10@gmail.com,3.0,0.8
+1929,Nisha Nair,33,Kolkata,Sales,100380,7/7/2025,nisha.nair18@gmail.com,5.0,11.6
+1297,Rajesh Chopra,24,  Bangalore,Hr,,7 Jan 2019,rajeshchopragmail.com,5.0,3.9
+1418,Naveen Verma,24,MUMBAI,Marketing,70422,2019-11-23,naveen.verma16@gmail.com,2.0,7.8
+1423,Abhishek Iyer,50,Jaipur,HR,,09-10-2021,abhishek.iyer22@gmail.com,1.0,
+1540,Bhavna Bhat,22,Hyderabad,Hr,89479,2/17/2022,bhavna.bhat84@gmail.com,2.0,18.0
+1417,Manish Agarwal,twenty five,Ahmedabad,IT,75545,8 Jan 2022,manish.agarwal19@gmail.com,3.0,0.4
+1407,Abhishek Mehta,48,Chennai,IT ,106670,2018-04-08,abhishek.mehta89@gmail.com,,6.8
+1426,Vishal Malhotra,45,MUMBAI,Finance,"₹93,007",11 Jan 2015,vishal.malhotra46@gmail.com,5.0,16.2
+1318,Sneha Reddy,46,Bangalore,Finance,75372,10/2/2019,sneha.reddy60@gmail.com,4.0,10.0
+1262,Amit Iyer,26,Bangalore,Hr,44775,12/24/2015,amit.iyer16@gmail.com,4.0,13.8
+1060,Abhishek Reddy,29,pune,Sales,77779,10/12/2015,abhishekreddygmail.com,4.0,2.6
+1734,Pooja Singh,53,pune,Operations,139128,4/15/2017,,4.0,19.9
+1737,Rekha Patel,52,Delhi ,Finance,110334,2022-06-26,rekha.patel36@gmail.com,2.0,5.8
+1004,Payal Malhotra,56,Jaipur,Sales,24207,09-07-2020,payal.malhotra73@gmail.com,3.0,10.0
+1995,Sandeep Bhat,26,Bangalore,Hr,146147,2015-12-21,sandeep.bhat23@gmail.com,5.0,7.8
+1526,Pooja Chopra,51,Ahmedabad,Marketing,,2020-01-21,,3.0,4.7
+1326,Yash Pillai,52,Kolkata,Marketing,148353,,yash.pillai16@gmail.com,2.0,20.0
+1358,Gaurav Nair,N/A,Delhi,Finance,22459,2022-03-21,gaurav.nair86@gmail.com,2.0,18.1
+1482,Ajay Chopra,54,Nagpur,HR,,14-01-2023,ajay.chopra82@gmail.com,1.0,13.4
+1094,Harsh Mehta,32,  Bangalore,sales,82722,26-03-2025,harsh.mehta59@gmail.com,,15.8
+1910,Bhavna Reddy,23,Chennai,Marketing,26411,13-05-2015,bhavna.reddy85@gmail.com,3.0,16.3
+2003,Arjun Joshi,28,pune,IT,34836,16-10-2022,arjun.joshi91@gmail.com,2.0,0.8
+1664,Nikhil Bhat,59,Jaipur,IT,34835,08-02-2023,nikhil.bhat88@gmail.com,4.0,2.9
+1905,Anita Sharma,48,Kolkata,HR,20273,02-03-2022,anita.sharma47@gmail.com,3.0,1.8
+1060,Abhishek Reddy,29,pune,Sales,77779,10/12/2015,abhishekreddygmail.com,4.0,2.6
+1196,Sameer Iyer,25,Delhi ,Finance,,11-02-2016,sameer.iyer94@gmail.com,,19.6
+1058,Sunita Bhat,49,Chennai,Finance,75615,28-08-2019,sunita.bhat62@gmail.com,4.0,11.5
+1530,Suresh Agarwal,59,Delhi,IT ,117382,11/21/2021,suresh.agarwal56@gmail.com,2.0,5.8
+1534,Bhavna Reddy,35,MUMBAI,HR,115341,5/27/2021,bhavna.reddy3@gmail.com,3.0,9.5
+1024,Harsh Reddy,25,pune,Operations,36334,9/10/2019,harsh.reddy90@gmail.com,2.0,13.3
+1733,Tanvi Desai,31,Kolkata,Marketing,142832,05-06-2018,tanvi.desai27@gmail.com,4.0,12.1
+1498,Nisha Sharma,47,Hyderabad,IT,not disclosed,2022-12-03,nisha.sharma27@gmail.com,2.0,16.4
+1750,Isha Verma,43,pune,sales,22553,4/22/2018,isha.verma48@gmail.com,,7.6
+1025,Deepak Singh,40,Hyderabad,Sales,47549,10/20/2021,deepak.singh57@gmail.com,5.0,18.0
+1602,Rajesh Verma,,Mumbai,Hr,98636,6 Jan 2020,rajesh.verma31@gmail.com,4.0,12.9
+1790,Vishal Iyer,58,Mumbai,Hr,90170,2/26/2020,vishal.iyer45@gmail.com,5.0,4.5
+1455,Rekha Gupta,57,,Operations,125563,23 Jan 2024,rekha.gupta69@gmail.com,2.0,5.7
+1837,Priya Rao,36,Jaipur,Marketing,138299,11/16/2020,priya.rao74@gmail.com,2.0,19.3
+1130,Vivek Iyer,30,pune,IT ,27989,24 Jan 2023,vivek.iyer55@gmail.com,1.0,18.8
+1696,Ritu Joshi,48,Nagpur,Operations,72857,2019-09-18,ritu.joshi76@gmail.com,2.0,5.3
+1775,Rajesh Pillai,29,MUMBAI,Sales,"₹112,843",10-11-2023,rajesh.pillai77@gmail.com,1.0,2.8
+1205,Swati Nair,27,  Bangalore,Finance,78079,2020-05-24,swati.nair25@gmail.com,4.0,15.2
+1098,Sneha Patel,46,Chennai,HR,38714,2024-11-26,sneha.patel31@gmail.com,3.0,19.0
+1220,Meera Kapoor,28,Ahmedabad,HR,109881,2025-01-10,meera.kapoor67@gmail.com,5.0,8.4
+1075,Anita Nair,48,Kolkata,IT ,118951,2023-02-12,anita.nair87@gmail.com,5.0,0.9
+1336,Gaurav Saxena,42,  Bangalore,Hr,"₹140,951",05-10-2022,gaurav.saxena90@gmail.com,4.0,12.9
+1568,Tanvi Nair,47,Nagpur,Sales,21364,24 Jan 2020,tanvi.nair3@gmail.com,5.0,14.9
+1785,Abhishek Malhotra,52,pune,IT ,132194,6/11/2022,abhishek.malhotra97@gmail.com,2.0,2.2
+1186,Yash Kapoor,46,,IT ,48143,2017-05-09,yash.kapoor79@gmail.com,2.0,10.0
+1285,Tanvi Kapoor,31,MUMBAI,IT ,48913,2019-02-14,tanvi.kapoor79@gmail.com,3.0,14.9
+1408,Priya Bhat,50,pune,Hr,54946,2015-12-16,priya.bhat49@gmail.com,3.0,16.2
+1708,Ajay Nair,37,Delhi,Operations,104125,2023-08-27,ajay.nair5@gmail.com,5.0,10.8
+1134,Isha Iyer,39,Hyderabad,Operations,67139,15-08-2023,isha.iyer61@gmail.com,3.0,7.4
+1457,Sohail Pillai,25,Chennai,IT ,88019,2021-05-19,sohail.pillai57@gmail.com,4.0,8.3
+1170,Simran Mehta,36,Bangalore,Marketing,98644,25 Jan 2024,,3.0,12.1
+1451,Vikram Patel,46,Delhi ,Sales,24861,5 Jan 2025,,5.0,8.4
+1003,Anita Iyer,45,Bangalore,Operations,66566,11/9/2018,anita.iyer10@gmail.com,2.0,4.9
+1798,Kavita Desai,50 yrs,Pune,Hr,124024,10-05-2016,kavita.desai76@gmail.com,1.0,12.1
+1168,Simran Kumar,35,Hyderabad,IT,not disclosed,3/13/2019,simran.kumar18@gmail.com,2.0,five
+1663,Sneha Iyer,-21,Mumbai,sales,25499,08-12-2023,sneha.iyer34@gmail.com,1.0,17.1
+1017,Karan Patel,53,Bangalore,Operations,135247,10-06-2018,karan.patel91@gmail.com,5.0,
+1217,Priya Sharma,36,Jaipur,Operations,33462,19-09-2021,,,9.1
+1026,Jyoti Singh,39,Ahmedabad,Operations,"₹144,780",10-11-2018,jyoti.singh4@gmail.com,,12.2
+2045,Manish Gupta,55,Delhi ,Operations,118425,2024-10-17,manish.gupta75@gmail.com,2.0,1.7
+1843,Divya Mehta,45,,IT ,71843,6/20/2017,,5.0,0.8
+1385,Sneha Saxena,58,Ahmedabad,Finance,30956,8/22/2023,snehasaxenagmail.com,2.0,12.1
+1253,Payal Desai,46,Chennai,Marketing,125714,11/6/2024,payal.desai21@gmail.com,5.0,19.4
+1430,Simran Gupta,52,Pune,Hr,84616,28-12-2016,simran.gupta27@gmail.com,2.0,15.0
+1858,Abhishek Kumar,55,pune,HR,95195,4/27/2017,abhishekkumargmail.com,1.0,10.9
+1061,Harsh Chopra,38,  Bangalore,sales,58684,15 Jan 2020,harsh.chopra29@gmail.com,4.0,16.1
+1419,Isha Nair,36,Bangalore,HR,102752,11/14/2020,isha.nair11@gmail.com,4.0,8.3
+2036,Arjun Desai,,Kolkata,Sales,50040,2/2/2020,arjun.desai68@gmail.com,4.0,16.0
+1083,Ananya Chopra,45,Hyderabad,Sales,104843,11-02-2020,ananya.chopra37@gmail.com,5.0,6.7
+1913,Sunita Desai,46,Ahmedabad,Marketing,144494,2015-08-24,sunita.desai97@gmail.com,3.0,8.1
+1728,Vivek Rao,22,Mumbai,HR,94041,,vivek.rao72@gmail.com,2.0,10.8
+1922,Gaurav Reddy,,,Operations,74464,2015-06-28,gaurav.reddy13@gmail.com,5.0,11.9
+1514,Neha Iyer,48,MUMBAI,HR,52102,20-03-2021,neha.iyer58@gmail.com,2.0,15.6
+1319,Kavita Agarwal,55,Mumbai,Operations,43445,23 Jan 2022,kavita.agarwal12@gmail.com,2.0,2.5
+1751,Tanvi Bhat,34,Nagpur,Finance,not disclosed,2017-06-24,tanvi.bhat61@gmail.com,1.0,7.8
+1350,Meera Saxena,58,MUMBAI,sales,42989,2019-12-08,meera.saxena5@gmail.com,1.0,11.9
+1306,Sunita Agarwal,N/A,pune,Operations,62039,,sunita.agarwal45@gmail.com,4.0,8.8
+1409,Karan Reddy,53,Delhi ,Operations,59258,2020-07-07,karan.reddy10@gmail.com,5.0,5.3
+1838,Abhishek Agarwal,35,MUMBAI,Marketing,52649,16 Jan 2022,abhishek.agarwal13@gmail.com,2.0,1.6
+1463,Mohit Bhat,22,Bangalore,Marketing,129958,8/3/2024,mohit.bhat52@gmail.com,4.0,0.5
+1853,Neha Gupta,22,Kolkata,IT,"₹50,776",2022-10-23,neha.gupta90@gmail.com,1.0,3.1
+1917,Sunita Kapoor,twenty five,pune,sales,,22-03-2019,sunita.kapoor21@gmail.com,2.0,7.2
+1779,Kirti Joshi,27,Delhi,Operations,131406,8/27/2025,kirti.joshi8@gmail.com,3.0,14.6
+1813,Abhishek Rao,30,Kolkata,Operations,57599,6 Jan 2025,abhishek.rao33@gmail.com,3.0,8.6
+1074,Priya Patel,34,Hyderabad,Operations,60846,20-10-2020,,5.0,
+1897,Shreya Saxena,41,Bangalore,Hr,135806,8/14/2022,,5.0,20.0
+1228,Kirti Mehta,38,Pune,Hr,72858,2018-02-15,kirti.mehta12@gmail.com,4.0,19.6
+1412,Neha Rao,55,Delhi ,IT ,115238,17-01-2025,neha.rao31@gmail.com,3.0,8.2
+1794,Rakesh Singh,36,Nagpur,HR,23864,24-08-2025,rakeshsinghgmail.com,5.0,13.7
+1909,Preeti Gupta,50 yrs,Mumbai,IT,63611,10/8/2020,preeti.gupta16@gmail.com,5.0,6.1
+1216,Sameer Singh,26,Mumbai,IT ,146527,,sameer.singh48@gmail.com,3.0,10.6
+1422,Vivek Rao,29,Bangalore,Operations,46039,12-07-2016,vivek.rao74@gmail.com,1.0,12.9
+1703,Priya Saxena,30,MUMBAI,HR,"₹129,322",2016-01-15,,7.0,19.7
+1626,Rohan Singh,50,Mumbai,sales,22729,03-05-2017,rohan.singh2@gmail.com,4.0,9.8
+1445,Bhavna Malhotra,44,Delhi ,HR,57022,16-11-2016,bhavna.malhotra78@gmail.com,4.0,9.9
+1432,Meera Malhotra,27,  Bangalore,Sales,"₹128,881",2025-08-15,meera.malhotra85@gmail.com,,13.1
+1207,Sneha Chopra,38,Chennai,Hr,140989,01-11-2016,sneha.chopra58@gmail.com,4.0,7.0
+1681,Meera Joshi,49,Chennai,IT ,not disclosed,04-11-2020,meera.joshi17@gmail.com,4.0,17.3
+2027,Yash Reddy,42,Jaipur,HR,134933,2025-05-25,yash.reddy37@gmail.com,1.0,15.8
+1879,Aman Patel,37,Kolkata,Hr,56318,14-10-2023,,4.0,9.5
+1041,Sameer Desai,27,  Bangalore,Marketing,59618,18-12-2015,,,18.9
+1632,Rahul Reddy,58,Delhi,Finance,,02-01-2025,rahul.reddy37@gmail.com,5.0,15.4
+1579,Naveen Kapoor,22,Bangalore,Marketing,122606,1/18/2021,naveen.kapoor41@gmail.com,4.0,5.2
+2046,Gaurav Sharma,55,Ahmedabad,Finance,86613,18 Jan 2015,gaurav.sharma39@gmail.com,2.0,9.0
+1317,Jyoti Agarwal,54,pune,Sales,79193,2022-01-08,jyoti.agarwal95@gmail.com,,15.3
+1110,Ajay Patel,49,Delhi ,IT,not disclosed,26 Jan 2021,ajay.patel47@gmail.com,2.0,8.0
+2005,Karan Iyer,49,  Bangalore,Sales,54832,2017-12-28,karan.iyer99@gmail.com,1.0,3.5
+1748,Vivek Desai,40,Nagpur,HR,45153,28-03-2021,vivek.desai42@gmail.com,4.0,15.8
+1057,Yash Singh,26,Nagpur,Marketing,96435,2017-04-15,yash.singh86@gmail.com,,18.0
+1975,Yash Bhat,24,Hyderabad,Sales,81994,21-07-2017,yash.bhat4@gmail.com,2.0,6.2
+1789,Nisha Agarwal,57,Hyderabad,Operations,54544,12 Jan 2021,nisha.agarwal41@gmail.com,1.0,2.7
+1006,Divya Singh,48,Nagpur,IT ,81348,18 Jan 2023,,5.0,15.4
+1679,Kavita Pillai,33,pune,Hr,118231,14-01-2018,kavita.pillai27@gmail.com,1.0,5.3
+1339,Tanvi Singh,45,Delhi,IT ,77062,6/18/2024,tanvi.singh86@gmail.com,,11.5
+1881,Yash Verma,,Chennai,Finance,51546,2018-04-20,yash.verma71@gmail.com,2.0,11.1
+1138,Priya Sharma,47,,Finance,57576,9/27/2015,priya.sharma23@gmail.com,1.0,4.8
+1163,Sohail Iyer,42 yrs,  Bangalore,IT ,95684,2025-05-21,sohail.iyer82@gmail.com,1.0,15.0
+1942,Ritu Sharma,43,Chennai,Hr,23525,,ritu.sharma23@gmail.com,2.0,14.6
+1928,Rekha Agarwal,27,pune,sales,112820,24 Jan 2017,rekha.agarwal66@gmail.com,4.0,
+1377,Tanvi Reddy,43 yrs,Jaipur,sales,118602,12/7/2024,tanvi.reddy42@gmail.com,3.0,8.5
+1903,Yash Mehta,36,Mumbai,IT,141388,7/13/2015,yash.mehta61@gmail.com,3.0,2.4
+1043,Divya Kumar,40,Delhi,IT,74548,2024-10-26,divya.kumar49@gmail.com,4.0,11.8
+1955,Komal Desai,25,Pune,Sales,133410,2021-05-27,komal.desai68@gmail.com,3.0,5.2
+1284,Sameer Kumar,51,,sales,82530,2019-01-25,sameer.kumar30@gmail.com,5.0,8.2
+1063,Tanvi Mehta,35,pune,sales,59608,04-07-2025,tanvi.mehta39@gmail.com,1.0,17.7
+1642,Nikhil Desai,53,Jaipur,Hr,28226,2017-11-05,nikhil.desai44@gmail.com,2.0,15.3
+1825,Ritu Malhotra,53,  Bangalore,IT ,64843,24-06-2017,ritu.malhotra37@gmail.com,4.0,1.7
+1294,Abhishek Desai,32,Pune,Operations,51298,12/3/2020,abhishek.desai50@gmail.com,4.0,3.1
+1038,Komal Malhotra,52,  Bangalore,sales,124573,9 Jan 2019,komal.malhotra36@gmail.com,5.0,1.7
+1396,Sneha Pillai,-28,Pune,Sales,122546,2016-10-07,sneha.pillai86@gmail.com,1.0,14.9
+1224,Sohail Singh,49,Nagpur,IT,64921,2017-02-13,sohail.singh50@gmail.com,4.0,13.0
+1389,Tanvi Rao,21,Mumbai,sales,not disclosed,2019-07-06,tanvi.rao32@gmail.com,,9.9
+1492,Ritu Iyer,N/A,Delhi,Hr,45774,09-06-2025,ritu.iyer88@gmail.com,2.0,20.0
+1344,Arjun Bhat,44,  Bangalore,Finance,107826,01-03-2017,,4.0,19.5
+1019,Sneha Patel,38,,HR,54335,2017-12-15,sneha.patel2@gmail.com,2.0,16.7
+1801,Sameer Reddy,48,Hyderabad,IT,84387,2016-06-18,sameer.reddy64@gmail.com,3.0,14.0
+1483,Vishal Rao,42,  Bangalore,Operations,74879,2020-03-04,vishal.rao6@gmail.com,1.0,13.9
+1308,Shreya Reddy,34,Jaipur,Finance,101663,12/23/2017,shreya.reddy85@gmail.com,3.0,5.7
+1316,Suresh Reddy,25,Mumbai,sales,84217,2020-08-08,suresh.reddy78@gmail.com,4.0,7.9
+1564,Sameer Bhat,44,Kolkata,IT,28874,17 Jan 2022,sameer.bhat3@gmail.com,3.0,2.6
+1154,Shreya Gupta,31,MUMBAI,HR,63383,15-07-2023,shreya.gupta24@gmail.com,4.0,14.7
+1270,Payal Agarwal,51,Delhi,IT ,48885,12/8/2025,payal.agarwal46@gmail.com,1.0,5.3
+1305,Sandeep Kapoor,29,Delhi ,Hr,71815,2025-10-07,sandeep.kapoor68@gmail.com,1.0,8.6
+1137,Vikram Verma,47,Mumbai,Marketing,"₹39,795",2015-04-17,,5.0,13.2
+1855,Mohit Nair,33,Jaipur,Sales,25783,18 Jan 2024,mohit.nair30@gmail.com,1.0,1.8
+1185,Rekha Patel,37,  Bangalore,IT,104670,3 Jan 2022,rekha.patel43@gmail.com,4.0,five
+1773,Kavita Malhotra,53,Jaipur,Marketing,46041,9/20/2020,kavita.malhotra68@gmail.com,5.0,4.6
+1761,Isha Reddy,45,Nagpur,IT,86414,17-12-2024,isha.reddy16@gmail.com,5.0,19.9
+1925,Bhavna Patel,54,Nagpur,IT,32472,11 Jan 2019,bhavna.patel28@gmail.com,1.0,5.5
+1680,Deepak Agarwal,43,Kolkata,HR,130191,2018-05-22,deepak.agarwal51@gmail.com,5.0,1.9
+1674,Sameer Singh,23,  Bangalore,Marketing,56471,11-10-2024,sameer.singh16@gmail.com,4.0,17.7
+1487,Vikram Gupta,30 yrs,Delhi ,Hr,69054,14 Jan 2020,vikram.gupta6@gmail.com,5.0,10.7
+1360,Sneha Patel,42,Delhi,Finance,43149,1/13/2023,sneha.patel50@gmail.com,3.0,17.7
+1587,Abhishek Patel,35,Jaipur,HR,41108,2023-09-24,abhishek.patel99@gmail.com,2.0,7.2
+1641,Priya Joshi,57,,Finance,,,priya.joshi18@gmail.com,4.0,19.6
+1630,Gaurav Desai,43,Chennai,IT ,56208,2019-04-02,gaurav.desai79@gmail.com,4.0,15.9
+1148,Shreya Rao,59,Mumbai,Marketing,43283,6/10/2021,shreya.rao74@gmail.com,3.0,16.3
+1768,Sohail Kumar,26,MUMBAI,IT ,100611,08-04-2016,sohail.kumar39@gmail.com,4.0,10.4
+1615,Aman Rao,46,Pune,Hr,,16-02-2015,aman.rao93@gmail.com,3.0,8.0
+1788,Suresh Iyer,35,Kolkata,Marketing,58901.00 INR,2018-01-28,suresh.iyer54@gmail.com,5.0,3.7
+1544,Manish Malhotra,31,Hyderabad,Finance,143233,07-09-2017,manish.malhotra82@gmail.com,2.0,11.3
+1399,Vivek Gupta,54,Mumbai,Operations,93024,2015-02-11,vivek.gupta59@gmail.com,3.0,16.8
+1656,Vishal Bhat,24,Chennai,sales,46680,08-09-2017,vishal.bhat16@gmail.com,2.0,
+1885,Neha Chopra,26 yrs,Nagpur,IT ,72953,2018-04-11,neha.chopra92@gmail.com,2.0,17.6
+1531,Meera Patel,58,Jaipur,IT,36700,7/19/2020,meera.patel76@gmail.com,4.0,6.4
+1232,Rajesh Verma,58,Delhi,sales,97242,,rajesh.verma71@gmail.com,5.0,10.2
+1713,Sameer Kumar,-30,Delhi ,IT,120377,2017-06-15,sameer.kumar85@gmail.com,2.0,1.6
+1314,Rajesh Kapoor,38,Mumbai,IT,23433.00 INR,2024-10-09,rajesh.kapoor77@gmail.com,1.0,13.8
+1158,Sohail Singh,49,Nagpur,Operations,83518,2017-04-27,sohail.singh84@gmail.com,4.0,16.8
+1256,Suresh Desai,43,Kolkata,Sales,38214,08-03-2022,suresh.desai28@gmail.com,2.0,14.3
+1705,Sameer Desai,39 yrs,Delhi,Sales,46041,2023-07-06,sameer.desai1@gmail.com,5.0,6.8
+1096,Isha Rao,45,Chennai,sales,68148,26-05-2023,isha.rao56@gmail.com,2.0,6.4
+1108,Rakesh Mehta,31,Kolkata,sales,60441,3 Jan 2022,rakesh.mehta31@gmail.com,3.0,
+1325,Neha Reddy,27,Nagpur,Hr,83394,2024-12-10,neha.reddy34@gmail.com,5.0,2.6
+1367,Nikhil Kapoor,,Jaipur,Hr,101123,17-09-2020,nikhil.kapoor85@gmail.com,1.0,15.9
+1372,Sneha Mehta,23,Hyderabad,Hr,108877,2023-03-24,sneha.mehta5@gmail.com,4.0,9.4
+1651,Yash Saxena,23,Chennai,IT ,100272,16 Jan 2016,yash.saxena6@gmail.com,4.0,13.0
+1567,Ajay Verma,38,Mumbai,Sales,52637,,ajay.verma78@gmail.com,3.0,14.1
+1655,Mohit Gupta,25,Bangalore,Marketing,116366,4/15/2020,mohit.gupta71@gmail.com,2.0,5.4
+1249,Shreya Chopra,-40,Jaipur,IT,61652,2022-08-11,shreya.chopra75@gmail.com,5.0,6.3
+1968,Kirti Malhotra,23,Ahmedabad,IT,75904,7 Jan 2015,,3.0,17.7
+1015,Nisha Singh,twenty five,Ahmedabad,HR,"₹28,907",13-04-2025,nisha.singh32@gmail.com,1.0,8.4
+1159,Kirti Singh,N/A,Pune,Marketing,56025,10-09-2018,kirti.singh96@gmail.com,4.0,2.3
+1585,Rahul Iyer,57,Nagpur,sales,,1 Jan 2016,rahul.iyer51@gmail.com,3.0,14.5
+1507,Mohit Singh,23,Hyderabad,Operations,102154,7 Jan 2018,mohit.singh55@gmail.com,2.0,6.5
+1048,Sameer Singh,49,Bangalore,IT ,84451,2016-08-12,sameer.singh14@gmail.com,3.0,9.9
+1883,Payal Saxena,32,Jaipur,Sales,60434,2021-10-28,payal.saxena28@gmail.com,1.0,8.9
+1977,Meera Kumar,57,Nagpur,Sales,131276,7/19/2017,meera.kumar19@gmail.com,3.0,11.0
+2021,Sneha Bhat,23,Pune,Hr,126277,2025-08-17,sneha.bhat57@gmail.com,2.0,14.4
+1831,Vikram Pillai,24,Nagpur,IT ,"₹120,195",1/24/2022,vikram.pillai99@gmail.com,3.0,12.1
+1558,Aman Kapoor,39,Kolkata,IT ,39987,08-03-2023,aman.kapoor34@gmail.com,2.0,8.6
+1974,Ajay Sharma,40,Nagpur,Marketing,136724,2/6/2018,ajay.sharma29@gmail.com,2.0,8.6
+1964,Priya Sharma,42,Delhi ,Hr,not disclosed,1/8/2023,priya.sharma82@gmail.com,3.0,16.5
+1435,Nikhil Gupta,53,Jaipur,IT ,93801,7/3/2024,nikhil.gupta79@gmail.com,4.0,10.3
+1653,Deepak Kumar,48,Ahmedabad,sales,not disclosed,07-06-2020,deepak.kumar31@gmail.com,5.0,
+1127,Deepak Malhotra,N/A,pune,HR,65582,2016-03-18,deepak.malhotra29@gmail.com,1.0,9.3
+1347,Sameer Nair,26,Ahmedabad,IT,102662,11/3/2025,sameer.nair75@gmail.com,1.0,10.7
+1619,Amit Pillai,41,Delhi ,Marketing,"₹120,427",2019-12-03,amit.pillai32@gmail.com,2.0,1.5
+1857,Divya Pillai,47,Chennai,IT,135968,2017-06-12,divya.pillai70@gmail.com,2.0,6.9
+1237,Tanvi Malhotra,39,MUMBAI,IT ,145396,18-06-2025,tanvi.malhotra26@gmail.com,4.0,18.2
+1167,Abhishek Joshi,35,Hyderabad,IT,,19-03-2016,abhishek.joshi2@gmail.com,,2.4
+1504,Gaurav Kumar,38,  Bangalore,Sales,43230,2/18/2019,gaurav.kumar86@gmail.com,3.0,7.2
+1513,Suresh Saxena,54,Chennai,Sales,"₹84,440",2016-04-02,suresh.saxena27@gmail.com,2.0,16.6
+1080,Payal Agarwal,49,pune,Operations,102210,15-03-2020,payal.agarwal39@gmail.com,5.0,five
+1570,Anita Pillai,32,  Bangalore,Marketing,143647,,anita.pillai23@gmail.com,5.0,2.9
+1300,Anjali Bhat,37,Chennai,sales,20025,,anjali.bhat39@gmail.com,,4.3
+1518,Sameer Kapoor,43,Ahmedabad,Operations,105315,24-07-2021,sameer.kapoor47@gmail.com,1.0,12.9
+1324,Payal Agarwal,23,Delhi,Operations,69668,2016-07-27,payal.agarwal18@gmail.com,3.0,8.3
+1697,Karan Kumar,58,pune,Operations,131856,9 Jan 2024,karan.kumar79@gmail.com,4.0,0.1
+2016,Sunita Reddy,34,Nagpur,HR,141384,06-06-2015,sunita.reddy73@gmail.com,2.0,17.6
+1030,Shreya Mehta,26,Mumbai,IT ,112591,2018-02-14,shreya.mehta54@gmail.com,,7.8
+1242,Meera Malhotra,39,Pune,Operations,86680,02-08-2022,meera.malhotra42@gmail.com,1.0,19.1
+1586,Sohail Gupta,53,Delhi,HR,,19 Jan 2021,,4.0,five
+1725,Naveen Malhotra,39,,Marketing,,09-03-2025,naveen.malhotra82@gmail.com,2.0,14.2
+1799,Komal Mehta,56,  Bangalore,sales,107648,11-02-2023,komal.mehta63@gmail.com,4.0,
+1375,Sohail Malhotra,44,pune,Sales,29266,2021-12-11,sohail.malhotra97@gmail.com,5.0,15.9
+1590,Kirti Verma,39,Hyderabad,HR,87171,12-06-2024,kirti.verma58@gmail.com,1.0,12.9
+1623,Shreya Verma,44,Delhi,IT ,75389,2018-05-07,shreya.verma68@gmail.com,5.0,13.6
+1988,Harsh Gupta,50,MUMBAI,Hr,44464,27-01-2016,harshguptagmail.com,5.0,3.6
+1027,Anjali Patel,57,Jaipur,IT ,51979,,anjali.patel99@gmail.com,4.0,16.1
+1493,Sameer Bhat,21,Delhi ,Operations,72928,10/25/2021,sameer.bhat66@gmail.com,2.0,4.6
+1122,Aman Nair,36,Pune,sales,73138,9/23/2025,aman.nair82@gmail.com,3.0,4.4
+1865,Rahul Mehta,49,Jaipur,IT,,,rahul.mehta9@gmail.com,4.0,11.3
+2013,Rekha Sharma,26,Pune,Sales,88103,2018-07-09,rekha.sharma71@gmail.com,1.0,15.3
+1577,Deepak Chopra,48,Kolkata,IT ,103440,26 Jan 2020,deepak.chopra50@gmail.com,4.0,9.9
+1782,Payal Agarwal,23,Hyderabad,IT ,23360,,payal.agarwal13@gmail.com,4.0,14.6
+2020,Rakesh Gupta,41,Mumbai,Hr,88019,,rakesh.gupta13@gmail.com,3.0,15.8
+2032,Karan Mehta,31,  Bangalore,Sales,113104,08-01-2019,,4.0,11.3
+1202,Sohail Verma,48,Jaipur,HR,53801,26-12-2020,sohail.verma51@gmail.com,3.0,18.3
+1884,Divya Malhotra,45,Pune,Finance,108252,26 Jan 2022,divya.malhotra3@gmail.com,5.0,8.8
+1271,Ajay Patel,42,Delhi,HR,66338,09-10-2018,ajay.patel25@gmail.com,2.0,4.8
+1746,Kirti Singh,51,Ahmedabad,Finance,89755,6/9/2018,kirti.singh81@gmail.com,2.0,6.4
+1473,Kirti Chopra,,Kolkata,Marketing,,4 Jan 2025,kirti.chopra64@gmail.com,2.0,11.3
+1277,Kirti Joshi,57,Pune,HR,"₹126,668",2019-08-27,kirti.joshi43@gmail.com,3.0,18.6
+1915,Nisha Iyer,,  Bangalore,IT ,,5/18/2016,nisha.iyer54@gmail.com,,14.7
+1984,Naveen Patel,37,Pune,Hr,54445,07-04-2016,naveen.patel17@gmail.com,3.0,18.6
+1868,Jyoti Saxena,49,Kolkata,IT ,,18-11-2020,jyoti.saxena36@gmail.com,4.0,five
+1914,Abhishek Patel,47,Kolkata,Marketing,129419,15-04-2024,abhishek.patel5@gmail.com,5.0,5.3
+1800,Sneha Pillai,58,Delhi,IT,62015,10/19/2023,sneha.pillai97@gmail.com,2.0,2.7
+1147,Simran Nair,51,Delhi ,Finance,114489,2025-08-20,simran.nair18@gmail.com,4.0,12.4
+1299,Sandeep Mehta,55,Nagpur,Operations,92100,6/14/2020,sandeep.mehta93@gmail.com,2.0,4.3
+1918,Sameer Joshi,55,MUMBAI,IT,"₹40,390",08-01-2016,sameer.joshi98@gmail.com,2.0,9.0
+1952,Amit Joshi,25,Mumbai,Finance,123325,2015-06-13,amit.joshi60@gmail.com,,0.1
+1943,Arjun Reddy,39,Kolkata,sales,37631,24 Jan 2015,arjun.reddy81@gmail.com,3.0,8.6
+1177,Rahul Pillai,30,Mumbai,Sales,139792,08-07-2025,rahul.pillai93@gmail.com,1.0,2.4
+1963,Vikram Patel,53,Kolkata,Operations,32492,2022-09-28,vikram.patel68@gmail.com,1.0,4.2
+1051,Anita Iyer,28,Kolkata,HR,113926,23-09-2019,anita.iyer61@gmail.com,5.0,3.8
+1509,Karan Bhat,57,Mumbai,IT,148636,12/13/2025,karan.bhat89@gmail.com,2.0,17.7
+1953,Manish Iyer,42,Delhi,Hr,39655,19-07-2021,manish.iyer35@gmail.com,3.0,1.0
+1870,Vikram Singh,28,,Marketing,37460.00 INR,12-01-2021,vikram.singh15@gmail.com,3.0,0.2
+1022,Payal Chopra,35,,Marketing,56517,2016-05-12,payal.chopra69@gmail.com,1.0,19.4
+1503,Payal Malhotra,46,  Bangalore,Sales,,6/22/2017,payal.malhotra9@gmail.com,7.0,14.3
+1600,Rajesh Gupta,55,Delhi,Hr,24277,2025-05-28,rajesh.gupta59@gmail.com,1.0,9.4
+1729,Deepak Saxena,28,Delhi,Marketing,94808,28-03-2019,deepak.saxena95@gmail.com,5.0,15.0
+1397,Ritu Agarwal,31,  Bangalore,Marketing,28957,,ritu.agarwal25@gmail.com,2.0,10.7
+1415,Anita Mehta,25,Hyderabad,IT,130075,2017-04-04,anita.mehta16@gmail.com,5.0,18.6
+1660,Yash Desai,45,Kolkata,Marketing,21990.00 INR,09-11-2019,yash.desai70@gmail.com,5.0,12.3
+1209,Sunita Sharma,29,pune,Sales,99736,2019-12-23,sunita.sharma49@gmail.com,4.0,9.3
+1916,Anjali Joshi,24,Kolkata,Marketing,92398,28-02-2019,anjali.joshi72@gmail.com,2.0,4.0
+1142,Bhavna Malhotra,40,Mumbai,IT ,90852,7/25/2020,bhavna.malhotra89@gmail.com,5.0,6.9
+1050,Sameer Pillai,24,Jaipur,HR,77424,1 Jan 2022,sameer.pillai31@gmail.com,3.0,11.0
+1351,Divya Pillai,47,Delhi ,sales,41926,10/24/2018,,1.0,five
+1166,Rohan Rao,48,Jaipur,HR,59566,5/3/2017,rohan.rao48@gmail.com,2.0,five
+1739,Abhishek Iyer,,Jaipur,HR,54002,12/17/2020,abhishek.iyer52@gmail.com,2.0,12.9
+1611,Nikhil Chopra,25,Kolkata,Sales,53169,2024-07-10,nikhil.chopra68@gmail.com,1.0,16.2
+1081,Sandeep Patel,49,Pune,Finance,"₹133,278",2016-10-20,sandeep.patel71@gmail.com,1.0,16.2
+2009,Vishal Kapoor,22,Mumbai,Sales,25619,2017-05-12,vishal.kapoor30@gmail.com,,12.9
+1321,Anjali Verma,40,MUMBAI,sales,43684,,anjali.verma2@gmail.com,4.0,0.1
+2017,Karan Kapoor,58,Delhi,Marketing,38857,3/11/2018,karan.kapoor32@gmail.com,5.0,11.1
+2039,Amit Sharma,,Bangalore,IT ,not disclosed,,,4.0,13.3
+1491,Gaurav Rao,44,Delhi ,Finance,43536,2022-04-09,gaurav.rao11@gmail.com,5.0,12.9
+1066,Shreya Iyer,57,Jaipur,Hr,48305,25-06-2018,shreya.iyer1@gmail.com,2.0,10.8
+1334,Anjali Rao,38,Mumbai,IT,,04-09-2023,anjali.rao41@gmail.com,3.0,3.4
+1452,Sunita Bhat,41,,Finance,100006,2017-12-13,sunita.bhat70@gmail.com,5.0,13.9
+1947,Sneha Iyer,55,  Bangalore,sales,105151,12/24/2024,,2.0,4.8
+1289,Arjun Rao,27,Ahmedabad,Marketing,109318,2019-06-06,,5.0,9.6
+1395,Vishal Kumar,40,Mumbai,IT,120011,2/1/2016,vishal.kumar6@gmail.com,1.0,10.3
+1621,Karan Kumar,44,Hyderabad,Hr,72455,2018-02-09,karan.kumar74@gmail.com,2.0,2.1
+1283,Kavita Agarwal,57,Hyderabad,Hr,65504,9/8/2022,kavita.agarwal47@gmail.com,2.0,0.0
+1818,Sohail Pillai,54,MUMBAI,Sales,123148,,sohail.pillai7@gmail.com,1.0,18.0
+1565,Rahul Agarwal,twenty five,MUMBAI,IT ,89791,2023-02-06,rahul.agarwal72@gmail.com,4.0,4.1
+1361,Gaurav Reddy,34 yrs,Pune,Marketing,28256,2023-11-10,gaurav.reddy58@gmail.com,1.0,
+1595,Sameer Joshi,43,Hyderabad,Hr,41061,2021-06-23,sameer.joshi72@gmail.com,5.0,14.5
+1064,Sohail Malhotra,55,Hyderabad,HR,105841,2016-08-20,sohail.malhotra5@gmail.com,2.0,19.0
+1752,Bhavna Pillai,59,Nagpur,IT,,2019-09-12,bhavna.pillai61@gmail.com,1.0,15.5
+1264,Kavita Chopra,51,Bangalore,Operations,72183,11/4/2017,kavita.chopra90@gmail.com,1.0,8.0
+1848,Aman Saxena,56,Chennai,HR,118850,11-05-2024,aman.saxena51@gmail.com,3.0,8.9
+1667,Vikram Iyer,57,pune,IT ,35891,2023-01-20,vikram.iyer57@gmail.com,2.0,5.9
+1820,Rajesh Gupta,47,Mumbai,sales,56861,22 Jan 2018,rajesh.gupta13@gmail.com,2.0,9.5
+1020,Preeti Bhat,30 yrs,Pune,Sales,47535,22-04-2025,preeti.bhat53@gmail.com,2.0,4.7
+1815,Aman Malhotra,21,Hyderabad,Marketing,"₹126,834",2019-11-20,,3.0,10.0
+1886,Priya Agarwal,25,Kolkata,Sales,65243,2020-07-01,priya.agarwal55@gmail.com,7.0,4.6
+1805,Rahul Kumar,37 yrs,Nagpur,IT ,113083,7 Jan 2025,rahul.kumar35@gmail.com,1.0,8.3
+1296,Mohit Pillai,58,Bangalore,Marketing,29289,2015-04-21,mohit.pillai11@gmail.com,1.0,14.9
+1541,Kavita Saxena,21,Ahmedabad,Operations,not disclosed,21-04-2024,kavita.saxena97@gmail.com,,10.1
+1966,Suresh Iyer,51,Chennai,HR,73382,3/27/2018,suresh.iyer78@gmail.com,2.0,five
+1777,Sunita Kumar,30,pune,Operations,,17-05-2023,sunita.kumar61@gmail.com,4.0,2.5
+1261,Naveen Bhat,48,Ahmedabad,Sales,76224,8/26/2018,naveen.bhat95@gmail.com,5.0,2.7
+1510,Vivek Pillai,twenty five,Pune,sales,103963,9/19/2018,,,2.5
+1757,Simran Nair,30,pune,HR,64539,9/25/2022,simran.nair56@gmail.com,4.0,0.1
+1582,Sameer Singh,21,Hyderabad,sales,128726,17-10-2019,sameer.singh21@gmail.com,1.0,19.6
+1442,Ajay Agarwal,46,Pune,IT,113466,2021-07-28,ajay.agarwal94@gmail.com,3.0,
+1657,Pooja Rao,50,,Sales,97101,27 Jan 2021,,4.0,17.3
+1666,Naveen Reddy,53,MUMBAI,Hr,113433,4/13/2020,,4.0,13.0
+1569,Deepak Nair,59,Ahmedabad,sales,55231,10/21/2018,deepak.nair20@gmail.com,4.0,18.0
+1957,Ajay Singh,40,Hyderabad,Sales,75023,6/24/2017,ajay.singh28@gmail.com,3.0,17.5
+1188,Nikhil Agarwal,45,Bangalore,Operations,23840,26 Jan 2019,nikhil.agarwal99@gmail.com,2.0,2.0
+1251,Rekha Saxena,N/A,Bangalore,HR,45746,21-12-2019,rekhasaxenagmail.com,,0.6
+1071,Amit Patel,N/A,Delhi,IT,68843,2017-09-02,amit.patel43@gmail.com,4.0,13.3
+1101,Vivek Chopra,56,Ahmedabad,Finance,113298,2025-03-26,vivek.chopra26@gmail.com,2.0,0.5
+1035,Rohan Saxena,28,Delhi ,Finance,not disclosed,22 Jan 2019,rohan.saxena92@gmail.com,5.0,12.5
+1467,Tanvi Kumar,47,Kolkata,Hr,146866,18 Jan 2017,tanvi.kumar69@gmail.com,5.0,0.0
+1863,Meera Chopra,23,Ahmedabad,Operations,69081,,meera.chopra76@gmail.com,3.0,4.3
+1484,Payal Saxena,51,MUMBAI,Operations,69271,7/6/2018,,,11.1
+1610,Arjun Nair,38,Hyderabad,Finance,46978,2022-07-15,arjun.nair41@gmail.com,5.0,4.0
+1720,Sunita Patel,42,MUMBAI,Marketing,100546,2022-07-02,,4.0,17.8
+1151,Ananya Bhat,26,Delhi,Operations,100304,10/21/2015,ananya.bhat97@gmail.com,4.0,2.0
+1791,Ritu Agarwal,50,Nagpur,IT ,"₹42,458",2015-09-15,,2.0,five
+1330,Divya Nair,42,Hyderabad,HR,71061,4 Jan 2017,divya.nair91@gmail.com,1.0,1.7
+1273,Vivek Pillai,57,  Bangalore,HR,140062,13-05-2023,vivek.pillai7@gmail.com,4.0,10.8
+1644,Preeti Chopra,46,Delhi,HR,107197,2016-08-22,preeti.chopra99@gmail.com,2.0,17.6
+1384,Ajay Agarwal,57,MUMBAI,sales,34721,1/5/2022,ajay.agarwal4@gmail.com,2.0,1.8
+1793,Shreya Iyer,53,Hyderabad,Hr,96922,20-01-2020,shreya.iyer76@gmail.com,1.0,10.6
+1365,Rohan Rao,58,Pune,IT ,22048,,rohan.rao91@gmail.com,3.0,16.1
+1281,Manish Patel,46,Delhi,sales,23455,25 Jan 2021,manish.patel80@gmail.com,4.0,4.9
+1937,Nisha Sharma,23 yrs,Chennai,Hr,64734,07-08-2015,nisha.sharma93@gmail.com,3.0,5.4
+1411,Swati Desai,48,pune,Marketing,52933,9/15/2024,swati.desai3@gmail.com,5.0,11.5
+1603,Sneha Agarwal,45,MUMBAI,Operations,77331,2/23/2018,sneha.agarwal81@gmail.com,4.0,12.5
+1786,Preeti Joshi,56,Bangalore,Hr,101064,03-04-2016,preeti.joshi85@gmail.com,3.0,6.8
+1841,Pooja Malhotra,21,Bangalore,HR,23777,2025-11-25,pooja.malhotra19@gmail.com,4.0,11.9
+1786,Preeti Joshi,56,Bangalore,Hr,101064,03-04-2016,preeti.joshi85@gmail.com,3.0,6.8
+1149,Isha Chopra,-38,Jaipur,Hr,120613,2023-01-24,isha.chopra57@gmail.com,1.0,15.9
+1553,Jyoti Agarwal,40,pune,Sales,136980,2024-08-02,jyoti.agarwal43@gmail.com,1.0,
+1207,Sneha Chopra,38,Chennai,Hr,140989,01-11-2016,sneha.chopra58@gmail.com,4.0,7.0
+1551,Komal Reddy,21,MUMBAI,Hr,52011,2025-09-22,komal.reddy22@gmail.com,5.0,3.5
+1218,Nisha Saxena,48,pune,Operations,84248,6 Jan 2020,nisha.saxena52@gmail.com,,19.7
+1239,Rohan Agarwal,21,Chennai,HR,,10/2/2020,rohan.agarwal85@gmail.com,5.0,1.5
+1104,Ajay Patel,56,Bangalore,Finance,32245,2023-11-06,ajay.patel22@gmail.com,5.0,18.5
+1355,Manish Reddy,,Nagpur,Marketing,103634,04-12-2016,manish.reddy49@gmail.com,5.0,3.7
+1609,Sohail Iyer,N/A,MUMBAI,Finance,46114,2016-06-23,sohail.iyer96@gmail.com,4.0,8.0
+1192,Ananya Malhotra,42,Bangalore,HR,77261,21-08-2025,ananya.malhotra72@gmail.com,5.0,4.5
+1280,Rekha Joshi,59,pune,sales,143046,2020-12-19,rekha.joshi22@gmail.com,1.0,4.7
+1191,Amit Sharma,33,Delhi ,HR,130662,01-01-2020,amit.sharma19@gmail.com,5.0,19.2
+1596,Preeti Saxena,42 yrs,Pune,sales,85463,26 Jan 2020,preeti.saxena67@gmail.com,4.0,17.1
+1724,Meera Reddy,40,Nagpur,Marketing,26400,16-10-2020,meera.reddy36@gmail.com,2.0,13.4
+1500,Kirti Rao,23,MUMBAI,sales,130446,7/20/2019,kirti.rao54@gmail.com,5.0,9.2
+1783,Manish Chopra,43,Chennai,Marketing,122722,6/15/2015,manish.chopra99@gmail.com,2.0,17.3
+1132,Rajesh Bhat,45,Jaipur,Operations,140878,2022-06-03,rajesh.bhat7@gmail.com,5.0,17.5
+2004,Ananya Reddy,26,Chennai,IT,62960,2/7/2018,ananya.reddy28@gmail.com,4.0,19.0
+1845,Isha Bhat,twenty five,Hyderabad,IT ,91840,15-04-2016,isha.bhat34@gmail.com,1.0,11.2
+1252,Preeti Agarwal,58,Jaipur,Hr,137176,8/21/2023,preeti.agarwal29@gmail.com,5.0,5.8
+1779,Kirti Joshi,27,Delhi,Operations,131406,8/27/2025,kirti.joshi8@gmail.com,3.0,14.6
+1594,Sunita Kapoor,32,Delhi,Finance,59103,17-07-2022,sunita.kapoor24@gmail.com,1.0,8.6
+1263,Vivek Kapoor,30,Hyderabad,Finance,90268,2021-10-12,vivek.kapoor51@gmail.com,4.0,11.2
+1070,Anjali Bhat,34,Hyderabad,Marketing,128451,7/14/2022,anjali.bhat41@gmail.com,3.0,13.7
+1272,Manish Reddy,36,  Bangalore,HR,35712,2016-11-22,,1.0,7.4
+1112,Shreya Desai,55,Kolkata,Finance,22180,22-06-2020,shreya.desai40@gmail.com,1.0,5.3
+1327,Rajesh Verma,56,Delhi ,Sales,110441,26-05-2019,rajesh.verma71@gmail.com,1.0,6.7
+1115,Harsh Mehta,37,Nagpur,Marketing,59124,25-05-2018,harsh.mehta91@gmail.com,4.0,18.7
+1323,Rahul Kumar,57,  Bangalore,Operations,26426,06-07-2016,rahul.kumar85@gmail.com,5.0,11.2
+2024,Arjun Pillai,53,Jaipur,Marketing,95569,03-08-2021,arjun.pillai12@gmail.com,1.0,1.0
+1770,Abhishek Verma,36,Mumbai,Sales,83418,21 Jan 2020,abhishek.verma52@gmail.com,2.0,5.3
+1982,Abhishek Desai,58,Kolkata,HR,,09-11-2018,abhishek.desai57@gmail.com,3.0,1.2
+2049,Sandeep Kumar,46,Nagpur,sales,26556,2019-01-19,sandeep.kumar34@gmail.com,1.0,8.5
+1718,Anita Chopra,27,pune,Sales,36874,9/13/2024,,4.0,1.1
+1891,Divya Kumar,59,  Bangalore,Finance,79630,12/4/2017,divya.kumar78@gmail.com,1.0,2.7
+1894,Neha Kapoor,30,Kolkata,HR,59580,,neha.kapoor57@gmail.com,4.0,9.3
+2037,Kavita Gupta,22,Pune,HR,132643,2023-11-12,kavita.gupta77@gmail.com,1.0,11.2
+1572,Ritu Kumar,59,Pune,Sales,33938,27-12-2023,ritu.kumar26@gmail.com,5.0,16.3
+1889,Jyoti Singh,51,Hyderabad,Marketing,,23-10-2018,jyoti.singh35@gmail.com,2.0,15.6
+2006,Deepak Saxena,28,MUMBAI,sales,99307,01-08-2017,deepak.saxena66@gmail.com,3.0,17.8
+1900,Rohan Pillai,-34,Delhi ,Operations,145261,2019-10-18,rohan.pillai95@gmail.com,3.0,13.4
+1478,Komal Rao,49,Nagpur,Sales,69465,12/3/2020,,1.0,12.5
+1704,Arjun Saxena,42,  Bangalore,Operations,42179,2024-12-12,arjun.saxena52@gmail.com,1.0,five
+1278,Manish Chopra,,Delhi,Marketing,105179,6 Jan 2025,manish.chopra42@gmail.com,4.0,8.9
+1388,Deepak Patel,,pune,IT ,80570,07-03-2024,deepak.patel71@gmail.com,3.0,6.1
+1876,Suresh Mehta,41,Jaipur,Operations,45145,2020-09-22,suresh.mehta55@gmail.com,2.0,17.8
+1002,Naveen Nair,50,Ahmedabad,IT ,"₹58,427",2025-10-28,naveen.nair9@gmail.com,,5.8
+1229,Jyoti Sharma,N/A,,Hr,,21-10-2024,jyoti.sharma27@gmail.com,4.0,7.3
+1740,Preeti Desai,44,Hyderabad,sales,134135,2023-08-06,preeti.desai86@gmail.com,3.0,4.1
+1358,Gaurav Nair,N/A,Delhi,Finance,22459,2022-03-21,gaurav.nair86@gmail.com,2.0,18.1
+1941,Naveen Bhat,36,Pune,Finance,106153,27 Jan 2015,naveen.bhat43@gmail.com,5.0,18.5
+1991,Isha Pillai,46,Ahmedabad,HR,22026,2020-01-13,ishapillaigmail.com,2.0,7.0
+1388,Deepak Patel,,pune,IT ,80570,07-03-2024,deepak.patel71@gmail.com,3.0,6.1
+1199,Rohan Joshi,51,  Bangalore,IT ,137293,2025-05-03,rohan.joshi48@gmail.com,3.0,0.9
+1371,Arjun Mehta,-38,Pune,IT,80106,25-03-2021,arjun.mehta78@gmail.com,5.0,11.6
+1993,Vikram Agarwal,58 yrs,Hyderabad,Sales,90026,2025-05-08,vikram.agarwal37@gmail.com,1.0,2.5
+1597,Abhishek Rao,58,,Marketing,91576,13-10-2017,abhishek.rao25@gmail.com,5.0,7.4
+1437,Ajay Agarwal,,Delhi,Hr,not disclosed,2/15/2021,ajay.agarwal33@gmail.com,5.0,10.1
+1706,Yash Patel,50,Delhi,IT,31326,2017-06-19,,1.0,7.5
+1065,Ananya Gupta,44,Ahmedabad,Operations,"₹56,160",2/28/2018,ananyaguptagmail.com,5.0,1.0
+1466,Sameer Desai,28,Bangalore,sales,28579,2022-01-14,sameer.desai3@gmail.com,5.0,4.9
+1307,Suresh Reddy,30,Delhi ,IT,not disclosed,5 Jan 2018,suresh.reddy2@gmail.com,1.0,9.4
+1040,Jyoti Bhat,50,Bangalore,Marketing,not disclosed,2020-02-24,jyoti.bhat24@gmail.com,4.0,11.8
+1899,Sohail Reddy,33,Hyderabad,HR,94473,1 Jan 2019,sohail.reddy5@gmail.com,4.0,4.4
+1856,Ananya Rao,55,Mumbai,Operations,90879,2017-06-24,ananya.rao75@gmail.com,4.0,15.3
+1807,Kavita Bhat,37,pune,IT ,57544,09-10-2019,kavita.bhat26@gmail.com,5.0,4.0
+1649,Manish Malhotra,25,  Bangalore,Finance,"₹95,413",2018-09-20,manish.malhotra8@gmail.com,1.0,18.7
+1685,Bhavna Iyer,31,Chennai,Marketing,52598,,bhavna.iyer14@gmail.com,4.0,
+2027,Yash Reddy,42,Jaipur,HR,134933,2025-05-25,yash.reddy37@gmail.com,1.0,15.8
+1743,Pooja Iyer,50,Mumbai,Finance,31974,27 Jan 2018,pooja.iyer17@gmail.com,1.0,4.9
+1037,Payal Kumar,54,pune,Hr,80931,19-12-2021,payal.kumar12@gmail.com,4.0,9.3
+1353,Nisha Verma,N/A,Ahmedabad,IT ,105467,09-06-2019,nishavermagmail.com,4.0,13.5
+1898,Divya Malhotra,49,MUMBAI,Finance,119891.00 INR,2018-02-20,divya.malhotra6@gmail.com,,
+1236,Arjun Nair,31,Bangalore,HR,110517,2019-04-25,arjun.nair58@gmail.com,5.0,14.8
+1781,Deepak Saxena,45,Pune,IT,35397,6/19/2018,deepak.saxena54@gmail.com,1.0,15.8
+1499,Mohit Pillai,57,Bangalore,Hr,80156,1 Jan 2019,mohit.pillai52@gmail.com,2.0,18.2
+1055,Manish Mehta,46,pune,Operations,132635,2023-07-11,manish.mehta63@gmail.com,1.0,4.7
+1302,Neha Patel,51,Mumbai,IT,59373,2015-12-26,nehapatelgmail.com,,7.0
+1286,Ritu Kapoor,25,Mumbai,IT,100967,2022-05-23,ritu.kapoor3@gmail.com,5.0,
+1219,Neha Sharma,31,Delhi,Sales,103928,,neha.sharma85@gmail.com,1.0,
+1387,Rajesh Rao,48,MUMBAI,HR,98372,07-03-2016,rajesh.rao68@gmail.com,1.0,11.8
+1620,Kirti Verma,34,Kolkata,Marketing,64623,2018-10-25,kirti.verma98@gmail.com,4.0,17.0
+1390,Vikram Saxena,58,Kolkata,Finance,82395,6/17/2016,,5.0,five
+1352,Payal Malhotra,51,MUMBAI,Hr,109589,09-08-2021,payal.malhotra2@gmail.com,4.0,6.3
+1193,Preeti Singh,39,Mumbai,Sales,144347,28 Jan 2024,preeti.singh5@gmail.com,3.0,19.4
+1235,Vivek Gupta,56,Kolkata,IT ,137160,2023-05-28,,4.0,13.4
+1852,Yash Singh,N/A,Chennai,Marketing,117235,2020-02-09,,1.0,5.3
+1480,Komal Gupta,22,Kolkata,Marketing,not disclosed,2024-12-03,komal.gupta74@gmail.com,5.0,8.4
+1116,Rakesh Nair,57,pune,IT ,145122,02-05-2017,rakesh.nair45@gmail.com,3.0,4.3
+1804,Komal Sharma,,Hyderabad,IT,20621,27 Jan 2018,komal.sharma23@gmail.com,2.0,16.8
+1994,Rahul Mehta,59,MUMBAI,Hr,114265,23-12-2024,rahul.mehta83@gmail.com,5.0,14.7
+1643,Swati Malhotra,twenty five,  Bangalore,IT ,99408,3/19/2025,swati.malhotra85@gmail.com,2.0,11.8
+1769,Yash Nair,29,Chennai,HR,142503,2015-12-26,,2.0,
+1120,Sohail Desai,33,Delhi ,HR,104972,,sohail.desai38@gmail.com,2.0,17.1
+1842,Sameer Mehta,N/A,Bangalore,Marketing,79419,19-03-2019,sameer.mehta16@gmail.com,,9.5
+2042,Rekha Patel,58,Kolkata,IT ,92947,14 Jan 2019,rekha.patel20@gmail.com,3.0,9.7
+1650,Manish Sharma,,Hyderabad,Operations,27784,4/18/2017,manish.sharma97@gmail.com,1.0,1.5
+1062,Ananya Patel,21,Bangalore,sales,118174,2025-05-19,ananya.patel48@gmail.com,2.0,12.4
+1562,Tanvi Kumar,44,MUMBAI,Hr,51228,2025-05-07,tanvikumargmail.com,5.0,11.7
+1453,Rekha Malhotra,40,,Operations,114225,18-09-2017,rekhamalhotragmail.com,5.0,12.7
+1515,Anita Chopra,31,Kolkata,Hr,76810,8/1/2017,anita.chopra11@gmail.com,3.0,3.1
+1223,Rekha Iyer,39,Bangalore,IT,134575,5/12/2015,rekha.iyer95@gmail.com,1.0,
+1221,Karan Desai,28,Bangalore,IT,99823,2018-05-27,karan.desai91@gmail.com,2.0,
+1669,Suresh Agarwal,29,Ahmedabad,IT ,107281,10/9/2017,suresh.agarwal16@gmail.com,7.0,19.7
+1465,Vivek Singh,,Pune,IT,74109,13 Jan 2020,vivek.singh7@gmail.com,5.0,9.9
+1052,Naveen Desai,29,  Bangalore,IT ,123247,,naveen.desai76@gmail.com,4.0,8.9
+1972,Ananya Agarwal,25,Delhi ,HR,113670,5/19/2022,ananya.agarwal77@gmail.com,5.0,8.4
+1485,Divya Joshi,58,Delhi ,Sales,57237,4/9/2017,divya.joshi71@gmail.com,2.0,
+2041,Mohit Patel,32,Pune,Hr,,2019-11-27,mohit.patel51@gmail.com,5.0,12.8
+1767,Harsh Rao,22 yrs,Bangalore,Finance,not disclosed,6/20/2023,harshraogmail.com,5.0,4.4
+1155,Arjun Rao,45,Pune,Marketing,112243,10/4/2016,arjun.rao47@gmail.com,4.0,13.4
+1765,Mohit Singh,28,Delhi ,sales,72907,27-06-2025,mohit.singh4@gmail.com,4.0,
+1985,Arjun Chopra,46,Delhi,IT,46858,04-11-2017,arjun.chopra49@gmail.com,4.0,10.3
+1248,Komal Nair,32,pune,Sales,142207,2023-08-21,komal.nair9@gmail.com,2.0,9.7
+1441,Abhishek Bhat,40,Delhi ,sales,35264,3/24/2017,abhishek.bhat61@gmail.com,,4.9
+1979,Sameer Gupta,33,Delhi ,Hr,97019.00 INR,2019-09-09,,,9.6
+1542,Ananya Bhat,21,Jaipur,Hr,58456,15-09-2025,ananya.bhat41@gmail.com,3.0,10.2
+1117,Harsh Nair,38,Mumbai,Marketing,107796,21-04-2023,harsh.nair43@gmail.com,1.0,2.7
+1598,Ananya Sharma,40,Ahmedabad,IT,105054,2022-07-14,ananya.sharma55@gmail.com,3.0,3.5
+1769,Yash Nair,29,Chennai,HR,142503,2015-12-26,,2.0,
+1291,Vishal Pillai,30,Chennai,Marketing,31980,11 Jan 2025,vishal.pillai81@gmail.com,,3.1
+1954,Swati Singh,45,MUMBAI,Sales,26951,2021-04-08,swati.singh72@gmail.com,3.0,0.3
+1381,Nisha Bhat,40,Nagpur,Finance,54079,12 Jan 2018,nisha.bhat7@gmail.com,3.0,3.3
+1684,Harsh Sharma,22,Delhi ,Operations,120511,,harsh.sharma69@gmail.com,2.0,7.9
+1200,Gaurav Rao,38,Nagpur,IT,"₹65,061",2023-07-25,gaurav.rao50@gmail.com,4.0,13.7
+1821,Amit Singh,58,MUMBAI,Operations,96662,15 Jan 2024,amit.singh86@gmail.com,3.0,17.7
+2038,Shreya Reddy,33,Nagpur,sales,129881,7/14/2021,shreyareddygmail.com,5.0,2.8
+1094,Harsh Mehta,32,  Bangalore,sales,82722,26-03-2025,harsh.mehta59@gmail.com,,15.8
+1505,Neha Verma,55,Jaipur,Sales,126366,11/22/2023,neha.verma50@gmail.com,4.0,five
+1878,Shreya Singh,52,Chennai,sales,142222,18-08-2024,shreya.singh10@gmail.com,4.0,19.7
+1148,Shreya Rao,59,Mumbai,Marketing,43283,6/10/2021,shreya.rao74@gmail.com,3.0,16.3
+1340,Kirti Gupta,50,Chennai,sales,145289,20-02-2021,kirti.gupta99@gmail.com,3.0,13.2
+1154,Shreya Gupta,31,MUMBAI,HR,63383,15-07-2023,shreya.gupta24@gmail.com,4.0,14.7
+1992,Sunita Singh,N/A,Hyderabad,Operations,,8/4/2023,sunita.singh20@gmail.com,5.0,18.7
+1725,Naveen Sharma,56,Delhi,HR,25236,13-05-2020,naveen.sharma44@gmail.com,5.0,18.4
+1836,Aman Joshi,42,pune,IT ,98527,10-09-2017,aman.joshi89@gmail.com,3.0,9.5
+1902,Preeti Joshi,37,Delhi,Hr,122691,15 Jan 2018,preeti.joshi90@gmail.com,3.0,8.0
+1322,Kirti Iyer,51,Kolkata,IT,20861,2018-09-09,kirti.iyer27@gmail.com,,13.1
+1691,Divya Verma,57,Nagpur,Sales,47423,2023-08-18,divya.verma31@gmail.com,4.0,17.2
+1671,Rohan Patel,55 yrs,Hyderabad,Operations,not disclosed,23-04-2023,rohan.patel44@gmail.com,5.0,14.4
+1082,Rekha Reddy,51,Ahmedabad,Sales,126295,2020-12-03,rekha.reddy32@gmail.com,4.0,12.2
+1668,Pooja Mehta,44,Jaipur,IT,78328,2021-06-03,pooja.mehta47@gmail.com,5.0,15.7
+1464,Simran Singh,54,Chennai,IT,not disclosed,10-03-2023,simran.singh12@gmail.com,4.0,1.2
+1817,Gaurav Sharma,45,Nagpur,Finance,109211,2024-03-21,gaurav.sharma26@gmail.com,3.0,17.4
+1331,Pooja Chopra,40,Jaipur,HR,not disclosed,2015-04-03,,5.0,6.8
+1333,Rahul Saxena,42,Kolkata,IT,106374,1/19/2019,rahul.saxena27@gmail.com,2.0,10.6
+1010,Ananya Rao,49,Delhi,IT,97110,19-04-2023,ananyaraogmail.com,2.0,five
+1470,Ritu Iyer,41,Chennai,Operations,,2017-11-01,,,11.1
+1032,Kirti Iyer,52,Pune,IT ,130166,2022-03-20,kirti.iyer76@gmail.com,1.0,8.6
+1658,Deepak Rao,,Jaipur,IT ,106560,1/18/2019,deepak.rao78@gmail.com,3.0,18.1
+2011,Komal Malhotra,52,Mumbai,Marketing,137816,24 Jan 2025,komal.malhotra20@gmail.com,2.0,10.3
+1580,Simran Chopra,twenty five,Delhi,IT,97847,2017-01-05,simranchopragmail.com,,16.3
+1382,Rohan Bhat,32,  Bangalore,HR,35324,19-06-2015,rohan.bhat24@gmail.com,1.0,19.6
+1771,Gaurav Gupta,53,Chennai,HR,125773,9/15/2022,gaurav.gupta44@gmail.com,3.0,five
+1840,Tanvi Kumar,41,Kolkata,Hr,126263,2025-04-20,tanvi.kumar8@gmail.com,2.0,10.1
+2034,Payal Kapoor,,Pune,IT,87394,,payal.kapoor53@gmail.com,1.0,5.5
+2040,Meera Nair,,MUMBAI,Marketing,143401,2/27/2023,meera.nair91@gmail.com,3.0,6.3
+1378,Sneha Patel,49,Kolkata,IT,89717,2025-09-10,sneha.patel87@gmail.com,1.0,17.7
+1089,Divya Kapoor,N/A,Jaipur,Operations,74381,2015-07-17,divya.kapoor11@gmail.com,1.0,2.0
+1601,Meera Chopra,50,Hyderabad,IT ,,10-09-2018,meera.chopra40@gmail.com,4.0,0.1
+1213,Jyoti Nair,56,Delhi ,Operations,49131,24 Jan 2020,jyoti.nair43@gmail.com,5.0,17.0
+1967,Gaurav Nair,47,Delhi,Sales,132365,2019-03-17,gaurav.nair6@gmail.com,1.0,6.7
+1133,Arjun Agarwal,56,Jaipur,Operations,139143,7 Jan 2015,arjun.agarwal97@gmail.com,2.0,14.1
+1346,Kirti Iyer,38,Hyderabad,Operations,,2024-08-23,kirti.iyer89@gmail.com,7.0,10.5
+1722,Harsh Malhotra,26,Ahmedabad,HR,76505,6/15/2019,harsh.malhotra94@gmail.com,5.0,1.5
+1007,Shreya Gupta,31,,Finance,119871,4 Jan 2017,shreya.gupta82@gmail.com,2.0,15.3
+1709,Neha Kapoor,39,Jaipur,Hr,117403,2/17/2019,neha.kapoor60@gmail.com,1.0,12.6
+1320,Meera Rao,26,Ahmedabad,Hr,40958,,meera.rao43@gmail.com,2.0,2.9
+1896,Rahul Pillai,twenty five,Chennai,Hr,33277,2017-12-23,,5.0,9.0
+1187,Tanvi Pillai,twenty five,Bangalore,IT ,135953,21 Jan 2023,tanvi.pillai3@gmail.com,3.0,15.6
+1552,Ananya Kumar,24,Hyderabad,HR,34841,11/8/2020,ananya.kumar16@gmail.com,4.0,4.3
+1304,Sunita Malhotra,59,Nagpur,Marketing,123070,05-03-2021,sunita.malhotra96@gmail.com,,1.7
+1031,Anjali Agarwal,22,  Bangalore,IT ,143567,2020-05-25,anjali.agarwal54@gmail.com,5.0,18.0
+1702,Rekha Pillai,37,Bangalore,Sales,141579,2022-10-21,rekha.pillai96@gmail.com,5.0,0.8
+1240,Bhavna Mehta,32,Ahmedabad,Hr,91182,03-07-2023,bhavna.mehta85@gmail.com,3.0,19.0
+1834,Kavita Kumar,32,Jaipur,IT ,55506,2020-04-01,kavita.kumar71@gmail.com,2.0,14.5
+1174,Rekha Patel,48,MUMBAI,Marketing,,2021-02-15,,2.0,14.2
+1245,Rekha Saxena,twenty five,MUMBAI,IT,85907,5/26/2016,rekha.saxena37@gmail.com,4.0,16.4
+1056,Sunita Joshi,26,Hyderabad,IT,110964,02-01-2019,,4.0,10.6
+1583,Sohail Reddy,24,Jaipur,Hr,30119,8/11/2022,sohail.reddy49@gmail.com,3.0,3.9
+1861,Karan Pillai,26 yrs,MUMBAI,Marketing,59696,21-09-2018,karan.pillai4@gmail.com,,4.1
+1145,Swati Rao,38,Delhi,HR,93005,14-09-2023,swatiraogmail.com,5.0,6.5
+1219,Bhavna Mehta,29,Pune,sales,38191,,bhavnamehtagmail.com,2.0,14.5
+1392,Rohan Bhat,41,  Bangalore,Finance,111483,2020-02-18,rohan.bhat2@gmail.com,3.0,9.7
+1310,Bhavna Gupta,52,  Bangalore,IT,85621,,bhavna.gupta68@gmail.com,4.0,3.1
+1359,Yash Sharma,52,Kolkata,IT,20433,12/27/2021,yash.sharma69@gmail.com,3.0,6.1
+1093,Amit Verma,44,Bangalore,Operations,65193,2018-12-22,amit.verma95@gmail.com,2.0,
+1796,Nisha Nair,,Nagpur,Hr,,1 Jan 2016,nisha.nair1@gmail.com,3.0,
+1860,Suresh Agarwal,47,MUMBAI,IT,104397,3/27/2022,suresh.agarwal92@gmail.com,,10.1
+1376,Sunita Patel,42,MUMBAI,Hr,108428,2020-01-04,sunita.patel6@gmail.com,2.0,14.1
+1243,Harsh Bhat,,Delhi,Marketing,75601,4/18/2016,harsh.bhat95@gmail.com,1.0,3.1
+1948,Sneha Desai,55,Delhi,Hr,"₹88,822",09-02-2023,sneha.desai23@gmail.com,,16.8
+1087,Pooja Rao,49,Jaipur,Finance,122808,4/12/2022,pooja.rao57@gmail.com,3.0,10.1
+1214,Amit Verma,58,Nagpur,IT,45499,2/28/2023,amit.verma53@gmail.com,,2.7
+1444,Vishal Kapoor,,Bangalore,sales,50422,19 Jan 2023,vishal.kapoor78@gmail.com,4.0,5.9
+1173,Anjali Kapoor,46,Delhi,Hr,56368,2016-05-03,anjali.kapoor20@gmail.com,4.0,15.3
+1425,Rakesh Reddy,47,Delhi ,Finance,50865,2024-08-08,rakesh.reddy59@gmail.com,7.0,17.4
+1887,Ananya Nair,31,Jaipur,Hr,126186,2018-01-13,ananya.nair12@gmail.com,2.0,13.9
+1118,Tanvi Singh,51,Kolkata,Finance,104659,2015-02-21,tanvi.singh93@gmail.com,1.0,3.5
+1119,Kavita Verma,46,Delhi ,Finance,21214,20-10-2019,kavita.verma37@gmail.com,5.0,17.8
+1731,Isha Joshi,,  Bangalore,sales,109568,7/19/2016,isha.joshi53@gmail.com,1.0,2.8
+1000,Abhishek Gupta,,Bangalore,HR,108696,2023-02-19,,5.0,11.2
+1394,Meera Kumar,51,Chennai,Operations,77925.00 INR,25 Jan 2024,meera.kumar39@gmail.com,,4.4
+1401,Vishal Agarwal,31,Delhi,Marketing,97982,2/8/2021,vishal.agarwal36@gmail.com,5.0,15.1
+1404,Kirti Desai,42,Delhi ,Hr,,2015-07-04,kirti.desai49@gmail.com,1.0,
+2002,Karan Bhat,44,,sales,145338,,karan.bhat63@gmail.com,3.0,4.5
+1716,Preeti Sharma,59,Mumbai,Operations,85726,10/20/2015,preeti.sharma83@gmail.com,4.0,4.2
+1162,Harsh Nair,31,Chennai,Finance,55041,27-11-2023,harsh.nair53@gmail.com,3.0,2.5
+1114,Rajesh Kumar,34,Hyderabad,sales,116447,2015-12-05,rajesh.kumar85@gmail.com,4.0,3.5
+1150,Rajesh Pillai,41 yrs,Jaipur,HR,123425,15 Jan 2021,rajesh.pillai52@gmail.com,4.0,15.8
+1673,Ananya Rao,49,Mumbai,Finance,32700,16-05-2018,ananya.rao68@gmail.com,4.0,7.7
+1662,Tanvi Reddy,58,Delhi,Hr,28394,3/9/2022,tanvi.reddy64@gmail.com,2.0,12.4
+1833,Vivek Malhotra,50,Kolkata,IT ,23208,13 Jan 2017,vivek.malhotra52@gmail.com,4.0,13.2
+1368,Sunita Pillai,31,pune,Sales,57363,09-07-2018,sunita.pillai98@gmail.com,1.0,18.5
+1543,Vishal Gupta,23,,HR,129134,2018-03-20,vishal.gupta36@gmail.com,5.0,11.0
+1477,Abhishek Gupta,,Hyderabad,Operations,52394,8 Jan 2016,abhishek.gupta43@gmail.com,2.0,15.5
+2029,Deepak Patel,21,Delhi ,Operations,not disclosed,,deepakpatelgmail.com,1.0,3.8
+1532,Ananya Kumar,59,Nagpur,IT ,,6/5/2022,ananya.kumar29@gmail.com,4.0,5.7
+1625,Vishal Nair,31,Delhi ,Finance,57745,2015-02-06,vishal.nair62@gmail.com,2.0,13.6
+1512,Ritu Mehta,23,Ahmedabad,IT ,57808,4/28/2015,ritu.mehta27@gmail.com,2.0,13.9
+1699,Swati Desai,36,Ahmedabad,IT ,66529,2019-09-11,swati.desai28@gmail.com,3.0,16.8
+1072,Sameer Kapoor,24,Bangalore,Operations,not disclosed,2018-03-22,sameer.kapoor45@gmail.com,3.0,5.6
+1258,Yash Kumar,twenty five,Bangalore,Hr,98558,1 Jan 2024,yash.kumar37@gmail.com,2.0,19.9
+1624,Rekha Iyer,35,Delhi,Sales,51295,04-09-2016,rekha.iyer90@gmail.com,4.0,4.4
+2015,Komal Patel,50,Hyderabad,Hr,33402,18 Jan 2021,komal.patel16@gmail.com,2.0,five
+1135,Rajesh Verma,35,MUMBAI,Finance,96550,14-12-2024,rajesh.verma30@gmail.com,2.0,13.1
+1616,Tanvi Mehta,24,Hyderabad,sales,104029,20-06-2016,tanvi.mehta2@gmail.com,3.0,14.5
+1516,Rakesh Singh,50,Bangalore,IT ,83025,6/5/2016,rakesh.singh25@gmail.com,,14.6
+1731,Isha Joshi,,  Bangalore,sales,109568,7/19/2016,isha.joshi53@gmail.com,1.0,2.8
+1592,Payal Gupta,N/A,MUMBAI,IT ,46145,03-06-2021,payal.gupta63@gmail.com,4.0,9.1
+1933,Mohit Iyer,38,Hyderabad,Sales,40788,2015-01-24,mohit.iyer53@gmail.com,3.0,5.6
+1501,Mohit Singh,27,Hyderabad,Sales,134103,2017-05-21,mohit.singh9@gmail.com,2.0,8.2
+1538,Vishal Saxena,45,Delhi ,IT,133363,2025-07-09,vishal.saxena2@gmail.com,1.0,12.8
+1754,Vishal Mehta,44,Delhi ,Marketing,81384,12-08-2018,vishal.mehta91@gmail.com,5.0,0.5
+1092,Divya Singh,29,MUMBAI,Finance,114707,2020-08-26,,1.0,0.6
+1343,Aman Bhat,43,Delhi,Sales,112041,21-07-2024,aman.bhat49@gmail.com,2.0,9.5
+1778,Jyoti Saxena,25,Delhi ,Operations,144451,27 Jan 2015,jyoti.saxena60@gmail.com,2.0,13.8
+1986,Mohit Mehta,53 yrs,Ahmedabad,Operations,44954,3 Jan 2018,mohit.mehta40@gmail.com,1.0,3.4
+1293,Harsh Pillai,32,Ahmedabad,sales,128966,06-09-2024,harsh.pillai38@gmail.com,5.0,0.0
+1364,Arjun Kapoor,46,Chennai,Hr,129632.00 INR,19-01-2018,,4.0,7.4
+1997,Komal Agarwal,53,Kolkata,HR,36972,19-09-2020,komal.agarwal5@gmail.com,5.0,10.5
+1659,Sameer Agarwal,22,Chennai,IT ,122578,2015-02-18,sameer.agarwal87@gmail.com,5.0,11.5
+1014,Manish Rao,56,pune,HR,48534,2015-10-24,manish.rao8@gmail.com,,18.4
+1686,Ajay Joshi,,pune,Marketing,,2016-07-21,ajay.joshi35@gmail.com,1.0,five
+1086,Jyoti Desai,,Chennai,HR,40218,3/27/2017,jyoti.desai22@gmail.com,1.0,13.5
+1370,Jyoti Kapoor,45,Jaipur,sales,,2017-04-20,jyoti.kapoor18@gmail.com,2.0,19.5
+1165,Kirti Nair,39,Chennai,HR,83614,,kirtinairgmail.com,4.0,
+1942,Jyoti Singh,39,Jaipur,IT,125563,12/18/2017,jyoti.singh18@gmail.com,1.0,12.1
+1335,Swati Saxena,55,Kolkata,Sales,108538,13-02-2015,swati.saxena23@gmail.com,5.0,13.8
+1059,Vishal Joshi,,  Bangalore,Finance,,2 Jan 2025,vishal.joshi37@gmail.com,2.0,7.0
+1676,Priya Chopra,57,Hyderabad,Hr,not disclosed,2/23/2019,priya.chopra57@gmail.com,4.0,17.3
+1354,Pooja Agarwal,54,Chennai,HR,21386,27-01-2025,pooja.agarwal68@gmail.com,4.0,14.5
+1424,Nisha Kapoor,50,  Bangalore,IT,46626,5/10/2018,nisha.kapoor56@gmail.com,5.0,16.5
+1292,Harsh Gupta,-27,Chennai,Operations,77503,2018-01-23,harsh.gupta33@gmail.com,4.0,11.2
+1041,Sameer Desai,27,  Bangalore,Marketing,59618,18-12-2015,,,18.9
+1329,Shreya Rao,47,MUMBAI,Hr,115022,2025-06-18,shreya.rao88@gmail.com,3.0,five
+1614,Kirti Pillai,,Bangalore,IT,98830,13-10-2020,,,11.5
+1429,Rohan Mehta,52,Delhi ,Hr,106169,02-08-2025,,4.0,14.1
+1079,Abhishek Gupta,33,Delhi ,HR,39194,2019-04-06,abhishek.gupta84@gmail.com,,12.6
+1693,Nisha Pillai,57 yrs,Hyderabad,Finance,not disclosed,17-05-2025,nisha.pillai73@gmail.com,2.0,13.7
+1028,Vishal Desai,56,Jaipur,IT,125043,17 Jan 2022,vishal.desai97@gmail.com,5.0,17.8
+1707,Anita Iyer,33,MUMBAI,HR,69716,09-03-2019,anita.iyer29@gmail.com,3.0,3.5
+1254,Jyoti Pillai,23,Jaipur,Marketing,"₹68,422",22-01-2018,jyoti.pillai47@gmail.com,4.0,0.8
+1859,Nisha Gupta,37,Ahmedabad,HR,109654,04-08-2020,nisha.gupta48@gmail.com,4.0,16.4
+1458,Rohan Kumar,52,MUMBAI,Hr,35474,,rohan.kumar72@gmail.com,1.0,8.2
+1383,Divya Chopra,31,Ahmedabad,Sales,85459,11-08-2017,divya.chopra70@gmail.com,3.0,5.9
+1313,Arjun Kumar,54,Mumbai,HR,94035,2017-06-03,arjun.kumar16@gmail.com,2.0,15.3
+1084,Preeti Kumar,40,pune,IT ,not disclosed,2016-05-18,preeti.kumar17@gmail.com,5.0,13.4
+1574,Simran Malhotra,40 yrs,Jaipur,IT ,113696,6 Jan 2016,simran.malhotra37@gmail.com,5.0,7.2
+1136,Sunita Mehta,52,MUMBAI,sales,116045,3/5/2020,sunita.mehta70@gmail.com,1.0,16.8
+1111,Rahul Verma,,MUMBAI,sales,39521,05-09-2024,rahul.verma21@gmail.com,5.0,6.0
+1194,Suresh Agarwal,N/A,Kolkata,IT,148762,21 Jan 2020,sureshagarwalgmail.com,3.0,5.3
+1178,Sunita Verma,54,Pune,IT,133512,11-05-2019,sunita.verma48@gmail.com,5.0,14.8
+2018,Swati Nair,52,MUMBAI,sales,125937,8 Jan 2021,swati.nair34@gmail.com,5.0,15.5
+1723,Ananya Verma,28 yrs,Hyderabad,IT,103458,,ananya.verma33@gmail.com,1.0,8.7
+1496,Yash Verma,30,Chennai,IT ,46765,2021-02-18,yash.verma43@gmail.com,4.0,6.1
+1129,Naveen Verma,24,Jaipur,IT ,90747,2018-01-05,naveen.verma94@gmail.com,5.0,13.5
+1715,Sameer Gupta,41,Delhi ,IT ,137705,24 Jan 2019,sameer.gupta69@gmail.com,,14.8
+1337,Anjali Rao,35,Mumbai,Finance,71390,22-12-2017,anjali.rao42@gmail.com,1.0,five
+1608,Komal Saxena,31,Ahmedabad,IT,23873,2023-01-17,komal.saxena47@gmail.com,2.0,
+1124,Ananya Patel,28,Pune,Hr,90341,11 Jan 2017,ananya.patel88@gmail.com,5.0,18.0
+1195,Pooja Patel,27,,IT ,75004,16 Jan 2017,pooja.patel49@gmail.com,4.0,11.6
+1226,Rajesh Rao,,Bangalore,Sales,108857,12/19/2023,rajesh.rao86@gmail.com,5.0,14.0
+1689,Kirti Malhotra,55,MUMBAI,Marketing,23262,2021-04-15,kirti.malhotra83@gmail.com,2.0,19.5
+1268,Jyoti Patel,56,Bangalore,Hr,65625,2020-05-08,jyoti.patel52@gmail.com,3.0,10.1
+1152,Suresh Desai,56,Nagpur,Marketing,71266,11/19/2022,suresh.desai4@gmail.com,3.0,19.2
+1584,Karan Gupta,twenty five,Nagpur,Operations,,04-09-2017,karan.gupta97@gmail.com,2.0,12.8
+1103,Sunita Desai,56,pune,HR,139368,17-02-2015,sunita.desai42@gmail.com,2.0,18.8
+1593,Harsh Kumar,30,pune,Sales,121476,2021-01-26,harsh.kumar61@gmail.com,2.0,19.1
+1980,Suresh Sharma,,  Bangalore,IT ,71024,1/4/2016,suresh.sharma65@gmail.com,1.0,16.3
+1939,Tanvi Sharma,27,Nagpur,Marketing,25751,2018-08-14,tanvi.sharma14@gmail.com,5.0,2.7
+1756,Yash Mehta,25,Nagpur,Hr,89699,28 Jan 2017,yash.mehta60@gmail.com,2.0,15.3
+1227,Karan Kapoor,36,Kolkata,IT ,128322.00 INR,,karan.kapoor65@gmail.com,4.0,1.5
+2014,Isha Desai,50,Mumbai,Operations,62054,2019-12-12,isha.desai18@gmail.com,5.0,6.5
+1301,Vivek Sharma,38,Ahmedabad,HR,"₹80,341",05-03-2020,vivek.sharma32@gmail.com,3.0,8.0
+1275,Ritu Pillai,42,Chennai,IT ,111843,2020-06-28,ritu.pillai74@gmail.com,5.0,16.3
+1126,Nikhil Patel,24,Delhi,sales,,2017-03-25,nikhil.patel54@gmail.com,4.0,18.3
+1405,Tanvi Joshi,31,Kolkata,Finance,83891,2016-10-22,tanvi.joshi70@gmail.com,4.0,3.1
+1938,Arjun Malhotra,59,Nagpur,IT,101870,,arjun.malhotra61@gmail.com,5.0,4.6
+1683,Sneha Nair,35,Chennai,Sales,73714,2018-10-06,sneha.nair15@gmail.com,5.0,2.6
+1749,Anjali Nair,37,Kolkata,Finance,60138,12/12/2020,anjali.nair40@gmail.com,4.0,0.1
+2022,Ananya Desai,36,pune,Sales,140920,01-04-2015,ananya.desai50@gmail.com,5.0,11.5
+1036,Karan Joshi,59,Delhi ,Sales,76148,2025-06-03,karan.joshi54@gmail.com,1.0,7.2
+1139,Komal Desai,43,Bangalore,IT,73218,8 Jan 2022,komal.desai88@gmail.com,1.0,17.2
+1303,Simran Kapoor,28,  Bangalore,Sales,102862,2021-01-10,simran.kapoor73@gmail.com,5.0,3.1
+1267,Naveen Desai,35,Nagpur,Sales,105854,3 Jan 2015,naveen.desai46@gmail.com,4.0,10.4
+1533,Jyoti Verma,40,Ahmedabad,IT,131105,8/21/2024,jyoti.verma91@gmail.com,1.0,6.7
+1545,Rekha Desai,47,  Bangalore,IT ,146355,03-04-2024,rekha.desai88@gmail.com,1.0,1.8
+1212,Deepak Verma,57,  Bangalore,Marketing,103665,2022-11-12,deepak.verma85@gmail.com,2.0,9.4
+1468,Payal Saxena,31,Pune,sales,52884,7/12/2025,payal.saxena66@gmail.com,2.0,11.3
+1198,Pooja Gupta,,Nagpur,sales,67294,03-07-2015,pooja.gupta77@gmail.com,1.0,
+1672,Vikram Chopra,47,pune,IT ,82535,12/6/2017,vikram.chopra66@gmail.com,7.0,11.9
+1527,Kirti Malhotra,26,Chennai,sales,132341,13-12-2016,kirti.malhotra19@gmail.com,5.0,14.3
+1675,Ajay Nair,27,Jaipur,HR,"₹92,373",2023-03-01,,5.0,0.1
+1906,Rohan Joshi,23,Nagpur,Sales,127666,3/13/2018,rohan.joshi35@gmail.com,5.0,1.4
+1241,Komal Desai,56,  Bangalore,Sales,not disclosed,2022-04-21,komal.desai6@gmail.com,3.0,15.9
+1342,Sunita Joshi,48,MUMBAI,Operations,96379,2015-10-17,sunita.joshi38@gmail.com,,19.4
+1549,Payal Desai,48,Ahmedabad,Marketing,132449,5/14/2016,payal.desai82@gmail.com,,18.9
+1386,Sandeep Verma,44,Hyderabad,IT ,68867,2015-05-12,sandeep.verma72@gmail.com,7.0,8.9
+1999,Harsh Singh,42,  Bangalore,Finance,88627,2021-08-19,harsh.singh79@gmail.com,2.0,2.7
+1206,Ananya Verma,31,Delhi,Hr,122303,01-10-2023,ananya.verma26@gmail.com,2.0,
+1295,Ajay Mehta,41,Delhi,IT,,,ajay.mehta25@gmail.com,7.0,16.7
+1695,Aman Joshi,33,MUMBAI,sales,28009,20-08-2024,aman.joshi72@gmail.com,3.0,18.6
+1882,Vivek Iyer,45,Jaipur,Sales,31950,20 Jan 2024,vivek.iyer63@gmail.com,2.0,4.4
+1073,Suresh Kapoor,56,Pune,Finance,,,suresh.kapoor73@gmail.com,1.0,12.7
+1854,Vikram Malhotra,22,Pune,sales,147520,10/2/2015,vikram.malhotra36@gmail.com,4.0,5.3
+1104,Ajay Patel,56,Bangalore,Finance,32245,2023-11-06,ajay.patel22@gmail.com,5.0,18.5
+1792,Nikhil Patel,38,Nagpur,Sales,84331,25 Jan 2021,nikhil.patel28@gmail.com,3.0,13.5
+1815,Deepak Rao,41,pune,Hr,48437,7 Jan 2018,deepak.rao80@gmail.com,4.0,15.3
+1800,Sneha Pillai,58,Delhi,IT,62015,10/19/2023,sneha.pillai97@gmail.com,2.0,2.7
+1016,Preeti Agarwal,37,Jaipur,Operations,71876,21-11-2017,preeti.agarwal97@gmail.com,1.0,20.0
+1439,Kavita Reddy,59,Bangalore,IT,22348,,kavita.reddy59@gmail.com,5.0,6.1
+1091,Nisha Kapoor,-29,Jaipur,Sales,103748,03-08-2024,nisha.kapoor77@gmail.com,5.0,14.4
+1088,Rajesh Singh,59,Mumbai,Sales,134572,9/4/2020,rajesh.singh16@gmail.com,2.0,18.1
+1450,Divya Desai,35,Mumbai,IT ,137711,9/26/2022,divya.desai57@gmail.com,1.0,10.3
+1717,Simran Patel,32,Hyderabad,Finance,127646,9 Jan 2022,simran.patel21@gmail.com,5.0,9.3
+1102,Tanvi Agarwal,56,Mumbai,IT,"₹72,187",9/14/2022,tanvi.agarwal10@gmail.com,3.0,9.0
+1238,Bhavna Chopra,55,MUMBAI,Marketing,43255,6 Jan 2025,bhavna.chopra16@gmail.com,4.0,5.3
+1828,Anita Sharma,35,Jaipur,IT,101979,4/16/2023,anita.sharma64@gmail.com,2.0,14.6
+1246,Priya Pillai,35,Mumbai,Hr,103105,22 Jan 2017,priya.pillai94@gmail.com,1.0,11.1
+1946,Kavita Saxena,49,Bangalore,Marketing,124635,13-04-2015,kavita.saxena60@gmail.com,5.0,13.9
+1157,Meera Iyer,32,Chennai,Hr,98174,2017-10-13,meera.iyer69@gmail.com,2.0,9.8
+1479,Vikram Gupta,56,Pune,IT ,100911,2021-04-28,vikram.gupta2@gmail.com,4.0,17.6
+1645,Rakesh Malhotra,47,Delhi,Finance,not disclosed,2016-08-25,rakesh.malhotra4@gmail.com,3.0,9.0
+1971,Mohit Bhat,54,Mumbai,Marketing,69060,04-12-2024,mohit.bhat58@gmail.com,1.0,0.9
+1945,Suresh Singh,54,MUMBAI,Hr,142165,11 Jan 2024,suresh.singh77@gmail.com,5.0,9.0
+1018,Tanvi Joshi,27,Mumbai,IT,40374,20-05-2019,tanvi.joshi88@gmail.com,3.0,5.0
+1810,Suresh Singh,42,pune,Sales,29094,17-10-2018,suresh.singh71@gmail.com,1.0,1.3
+1121,Isha Kapoor,26,Hyderabad,HR,82580,01-04-2020,isha.kapoor97@gmail.com,3.0,14.5
+1961,Neha Reddy,43,Jaipur,Finance,135799,24-07-2016,neha.reddy14@gmail.com,7.0,9.1
+1935,Priya Iyer,45,Jaipur,Hr,142418,2/9/2017,priya.iyer89@gmail.com,7.0,10.3
+1274,Sandeep Chopra,32,Kolkata,Hr,110336,22-01-2015,sandeep.chopra42@gmail.com,3.0,5.3
+1433,Gaurav Mehta,57,Mumbai,Sales,57087,24-01-2020,gaurav.mehta49@gmail.com,7.0,4.8
+2028,Sunita Malhotra,29,Chennai,Operations,39677,13-05-2024,sunita.malhotra76@gmail.com,3.0,7.0
+1311,Nikhil Chopra,40,Jaipur,Hr,28127,13 Jan 2025,nikhil.chopra4@gmail.com,3.0,6.8
+1869,Anita Nair,43,Kolkata,Marketing,134757,01-02-2017,anita.nair86@gmail.com,5.0,5.3
+1960,Sandeep Desai,38,Chennai,HR,129019,23-11-2015,sandeep.desai82@gmail.com,,4.8
+1780,Manish Desai,37,Chennai,IT,83641,16-10-2018,manish.desai35@gmail.com,4.0,16.7
+1546,Shreya Nair,36 yrs,,IT ,49127,26 Jan 2021,shreya.nair94@gmail.com,5.0,9.8
+1181,Payal Patel,53,Mumbai,IT ,"₹94,425",22 Jan 2015,payal.patel34@gmail.com,4.0,14.7
+1184,Priya Malhotra,56,MUMBAI,IT,125368,01-02-2017,priya.malhotra29@gmail.com,4.0,12.6
+1406,Sneha Malhotra,58,Hyderabad,Operations,57281,2020-01-01,sneha.malhotra47@gmail.com,5.0,
+1719,Simran Nair,28,Nagpur,sales,122367,12/11/2022,simran.nair15@gmail.com,4.0,7.7
+1606,Karan Gupta,59,Delhi,Finance,43675,2/16/2016,karan.gupta27@gmail.com,4.0,8.3
+1692,Rakesh Patel,48,MUMBAI,HR,41245,04-12-2023,rakesh.patel15@gmail.com,,3.4
+1520,Simran Singh,37,MUMBAI,Hr,70172,2024-05-24,simran.singh94@gmail.com,1.0,15.5
+1380,Harsh Kumar,47,Kolkata,Sales,28250,27 Jan 2015,harsh.kumar53@gmail.com,3.0,13.3
+1410,Swati Agarwal,35,Nagpur,IT,95784,11-10-2016,swati.agarwal68@gmail.com,2.0,1.5
+1634,Naveen Joshi,48,pune,HR,46149,2019-03-14,naveen.joshi11@gmail.com,4.0,7.5
+1369,Kavita Singh,52,Ahmedabad,Marketing,97687,14-06-2024,kavita.singh42@gmail.com,1.0,2.0
+1927,Jyoti Verma,28 yrs,,sales,,18-07-2020,jyoti.verma72@gmail.com,2.0,3.4
+1958,Deepak Joshi,45,Mumbai,Operations,133544,3/13/2015,deepak.joshi48@gmail.com,2.0,19.2
+1863,Abhishek Saxena,52,Pune,Operations,,2022-07-25,abhisheksaxenagmail.com,5.0,19.0
+1078,Rohan Saxena,44,Delhi,IT,97184,2021-09-03,rohan.saxena44@gmail.com,2.0,five
+1573,Swati Mehta,36,Pune,Finance,36131,2015-01-04,swati.mehta54@gmail.com,2.0,
+1119,Kavita Verma,46,Delhi ,Finance,21214,20-10-2019,kavita.verma37@gmail.com,5.0,17.8
+1637,Ritu Gupta,27,  Bangalore,sales,133287,2015-02-24,ritu.gupta92@gmail.com,,2.9
+1607,Kirti Patel,47,Hyderabad,sales,43567,1/6/2019,kirti.patel5@gmail.com,3.0,9.7
+1907,Komal Joshi,51 yrs,Nagpur,HR,111742,2023-02-16,komal.joshi5@gmail.com,3.0,13.9
+1068,Preeti Gupta,35,Nagpur,Hr,104323,1/16/2015,preeti.gupta14@gmail.com,4.0,five
+1956,Rekha Singh,51,Kolkata,Marketing,69556,21-09-2018,rekha.singh20@gmail.com,2.0,12.4
+2044,Manish Singh,29,Pune,Sales,127454,04-03-2023,,1.0,13.2
+1416,Manish Pillai,36,Nagpur,Operations,96588,24-12-2021,manish.pillai19@gmail.com,2.0,8.8
+1981,Shreya Sharma,,Delhi,Sales,56601,2016-05-21,shreya.sharma42@gmail.com,,3.5
+1561,Rahul Sharma,twenty five,MUMBAI,Finance,139076,14-02-2024,rahul.sharma47@gmail.com,1.0,0.3
+1067,Kavita Gupta,22,,Marketing,22068,02-05-2017,kavita.gupta15@gmail.com,4.0,7.2
+1536,Sohail Rao,39,Mumbai,Marketing,21197,2020-12-28,sohail.rao19@gmail.com,4.0,3.4
+1077,Tanvi Chopra,twenty five,  Bangalore,IT ,,2016-06-19,tanvi.chopra82@gmail.com,1.0,19.3
+1105,Rahul Sharma,N/A,pune,Finance,120526,2024-07-20,rahul.sharma81@gmail.com,3.0,16.1
+1877,Sohail Joshi,44,MUMBAI,Operations,80645,06-09-2024,sohail.joshi38@gmail.com,2.0,12.7
+1893,Rajesh Singh,52,Mumbai,Marketing,"₹68,169",20 Jan 2019,rajesh.singh39@gmail.com,3.0,15.0
+1638,Jyoti Pillai,31 yrs,Bangalore,Sales,101744,,jyoti.pillai16@gmail.com,2.0,9.5
+1559,Amit Gupta,53,Nagpur,HR,37340,9 Jan 2021,amit.gupta55@gmail.com,,17.3
+1871,Sohail Mehta,51,Delhi ,sales,48065,2016-03-13,sohail.mehta10@gmail.com,2.0,2.9
+1690,Karan Bhat,52,Nagpur,HR,129847,9/24/2022,karan.bhat8@gmail.com,3.0,14.8
+1892,Ajay Rao,52,pune,Hr,72939,21 Jan 2023,ajay.rao78@gmail.com,4.0,10.5
+1996,Arjun Bhat,32,Pune,sales,122268,10/3/2016,arjun.bhat60@gmail.com,5.0,10.8
+1639,Sandeep Rao,28,Bangalore,HR,130326,2023-05-27,sandeep.rao85@gmail.com,4.0,0.4
+1599,Isha Singh,36,Chennai,Finance,106975,7/13/2020,isha.singh59@gmail.com,1.0,3.4
+1735,Deepak Patel,37,MUMBAI,Hr,77477,02-12-2022,deepak.patel93@gmail.com,3.0,18.5
+1890,Tanvi Chopra,30,Ahmedabad,Marketing,62661,5/17/2017,tanvi.chopra8@gmail.com,2.0,
+1490,Pooja Malhotra,48,Hyderabad,Operations,31109,2017-02-10,pooja.malhotra75@gmail.com,,6.7
+1080,Payal Agarwal,49,pune,Operations,102210,15-03-2020,payal.agarwal39@gmail.com,5.0,five
+1829,Preeti Verma,53,Pune,Marketing,135104,10/7/2023,preeti.verma10@gmail.com,3.0,4.6
+1969,Anita Sharma,50,Delhi,Marketing,"₹43,004",2018-05-11,anita.sharma66@gmail.com,4.0,9.7
+1605,Payal Chopra,35,Bangalore,Marketing,125787,22-05-2021,payalchopragmail.com,1.0,11.6
+1363,Komal Verma,29,Pune,Sales,127575,20-08-2016,komal.verma14@gmail.com,5.0,4.4
+1069,Anita Mehta,25,Mumbai,Hr,69925,2024-09-10,anita.mehta13@gmail.com,1.0,13.0
+1548,Aman Desai,29,Mumbai,Finance,,6/23/2025,aman.desai54@gmail.com,2.0,7.1
+1808,Nisha Verma,27,Delhi,IT ,119947,2016-04-14,nisha.verma19@gmail.com,1.0,10.1
+1160,Meera Nair,44,Ahmedabad,Sales,77850,14-04-2023,meera.nair97@gmail.com,1.0,7.0
+1011,Rahul Mehta,twenty five,Jaipur,sales,37342,16-10-2024,rahul.mehta53@gmail.com,1.0,7.1
+1144,Mohit Malhotra,N/A,Nagpur,Marketing,30752,3/13/2019,mohit.malhotra95@gmail.com,3.0,0.1
+1517,Ananya Pillai,47,Hyderabad,Operations,60345,2025-10-03,,4.0,3.2
+1427,Aman Nair,45,Bangalore,Operations,136945.00 INR,19-01-2023,aman.nair64@gmail.com,4.0,6.3
+1639,Sandeep Rao,28,Bangalore,HR,130326,2023-05-27,sandeep.rao85@gmail.com,4.0,0.4
+1176,Yash Patel,53,Chennai,HR,53438,10/22/2016,yash.patel66@gmail.com,,0.2
+1440,Komal Chopra,46,Delhi ,HR,45008.00 INR,23 Jan 2016,komal.chopra27@gmail.com,2.0,8.7
+1814,Swati Kumar,,Hyderabad,Hr,149432,2021-03-27,swati.kumar52@gmail.com,4.0,9.0
+1521,Nikhil Kumar,34,MUMBAI,Finance,,04-01-2022,nikhil.kumar68@gmail.com,3.0,3.4
+2000,Harsh Agarwal,46,  Bangalore,Marketing,138163,2024-02-11,harsh.agarwal88@gmail.com,3.0,15.2
+1448,Karan Bhat,,Delhi,IT,139404,24-03-2020,karan.bhat65@gmail.com,1.0,7.3
+1688,Karan Nair,57,Kolkata,IT ,"₹146,731",2021-09-09,karan.nair69@gmail.com,4.0,
+1231,Karan Verma,52,Mumbai,IT ,not disclosed,4 Jan 2018,karan.verma59@gmail.com,2.0,2.2
+1210,Sunita Desai,46,Nagpur,Hr,146679,2020-09-21,sunita.desai88@gmail.com,1.0,5.5
+1640,Divya Iyer,55,Jaipur,Finance,33109,8/12/2024,divya.iyer90@gmail.com,4.0,8.5
+1143,Karan Kapoor,25,Chennai,IT ,62778,11/9/2015,karan.kapoor30@gmail.com,4.0,13.6
+1753,Rajesh Kumar,58,Bangalore,Hr,"₹52,142",10/18/2020,rajesh.kumar68@gmail.com,1.0,15.4
+1519,Manish Saxena,30,Bangalore,HR,,23 Jan 2016,manish.saxena76@gmail.com,1.0,3.8
+1348,Aman Pillai,51,Nagpur,IT ,148157,,aman.pillai96@gmail.com,5.0,12.6
+1298,Mohit Iyer,32,Ahmedabad,IT ,120438,10/12/2025,mohit.iyer55@gmail.com,2.0,11.0
+1822,Vikram Singh,41 yrs,pune,HR,not disclosed,21-04-2025,vikram.singh11@gmail.com,4.0,
+1766,Divya Kapoor,,Hyderabad,Hr,33122,08-06-2015,divya.kapoor15@gmail.com,4.0,17.1
+1428,Nisha Kapoor,29 yrs,Chennai,HR,147581,12 Jan 2019,nisha.kapoor34@gmail.com,3.0,8.7
+1612,Simran Singh,25,Jaipur,Operations,61215.00 INR,1/11/2016,simran.singh28@gmail.com,3.0,11.2
+2048,Anita Singh,45,Nagpur,IT ,"₹104,928",2025-02-06,anita.singh76@gmail.com,2.0,8.5
+1991,Isha Pillai,46,Ahmedabad,HR,22026,2020-01-13,ishapillaigmail.com,2.0,7.0
+1008,Harsh Desai,59,Chennai,IT,135175,02-04-2019,harsh.desai11@gmail.com,7.0,1.4
+1156,Kirti Desai,41,Nagpur,IT ,65603,20-08-2020,kirti.desai39@gmail.com,5.0,2.7
+1539,Sandeep Iyer,,Nagpur,sales,117695,2016-10-06,sandeep.iyer90@gmail.com,5.0,6.5
+1506,Aman Verma,33,Jaipur,Marketing,22102,01-01-2021,aman.verma86@gmail.com,,1.9
+1436,Payal Iyer,30,Kolkata,Hr,"₹81,370",2021-02-26,payal.iyer17@gmail.com,3.0,10.5
+1266,Isha Saxena,39,MUMBAI,Sales,127509,2017-11-16,isha.saxena85@gmail.com,5.0,0.7
+1826,Mohit Mehta,28,Pune,IT,43213,2020-02-05,mohit.mehta12@gmail.com,1.0,14.7
+1461,Abhishek Rao,49,Mumbai,Operations,"₹101,889",2025-10-14,abhishek.rao44@gmail.com,4.0,12.9
+1576,Bhavna Patel,30,Delhi ,Operations,78549.00 INR,2022-02-04,bhavna.patel36@gmail.com,3.0,3.6
+1338,Meera Chopra,31,Bangalore,HR,73174,2016-06-18,meera.chopra69@gmail.com,5.0,12.4
+1255,Rekha Mehta,N/A,Ahmedabad,Finance,54513,19-09-2024,rekha.mehta47@gmail.com,1.0,7.5
+1920,Komal Patel,31,Mumbai,Hr,90098,2018-08-25,,4.0,10.2
+1976,Rakesh Iyer,35,Chennai,Operations,137771,22 Jan 2023,rakesh.iyer37@gmail.com,3.0,17.7
+1665,Vivek Saxena,42,Hyderabad,Operations,147598,01-10-2019,,5.0,
+1560,Deepak Kapoor,35,Jaipur,sales,"₹75,977",10-01-2025,deepak.kapoor45@gmail.com,2.0,1.0
+1208,Rohan Nair,26,,Sales,95007,21-04-2018,rohan.nair84@gmail.com,1.0,19.3
+1287,Karan Joshi,49,,IT,84694,14-06-2018,karan.joshi48@gmail.com,1.0,16.9
+1001,Bhavna Bhat,49,Nagpur,Sales,40926,09-06-2021,bhavna.bhat44@gmail.com,4.0,16.9
+1341,Anita Reddy,58,Delhi ,Sales,106623,18-08-2017,anita.reddy58@gmail.com,3.0,15.9
+1269,Tanvi Patel,42,Delhi,Finance,126580,2024-05-23,tanvi.patel62@gmail.com,3.0,9.2
+1265,Shreya Bhat,24,Mumbai,Sales,127905,2017-08-20,,1.0,14.5
+1934,Simran Sharma,54,Delhi,Operations,49401,23 Jan 2022,simran.sharma50@gmail.com,4.0,18.1
+1827,Shreya Saxena,twenty five,Nagpur,sales,63371,20-02-2025,shreya.saxena26@gmail.com,1.0,14.4
+1880,Deepak Mehta,-25,Delhi,Sales,,2019-02-18,deepak.mehta13@gmail.com,4.0,17.8
+1095,Rahul Mehta,53,Hyderabad,Hr,24799,2025-04-10,rahul.mehta84@gmail.com,1.0,8.7
+1927,Jyoti Verma,28 yrs,,sales,,18-07-2020,jyoti.verma72@gmail.com,2.0,3.4
+1864,Sunita Pillai,45,Pune,IT,91268,2/8/2016,sunita.pillai13@gmail.com,3.0,19.7
+1042,Abhishek Pillai,N/A,Pune,sales,64657,9 Jan 2017,abhishek.pillai9@gmail.com,1.0,13.7
+1873,Ananya Malhotra,35,MUMBAI,sales,123608,21 Jan 2023,ananya.malhotra31@gmail.com,3.0,1.5
+1156,Kirti Desai,41,Nagpur,IT ,65603,20-08-2020,kirti.desai39@gmail.com,5.0,2.7
+1398,Rakesh Gupta,53,  Bangalore,Operations,44264,04-11-2022,rakesh.gupta49@gmail.com,5.0,2.3
+1959,Rakesh Sharma,51,Hyderabad,Finance,87237,17 Jan 2024,,1.0,11.1
+1628,Harsh Nair,37,Chennai,Operations,63743,28 Jan 2023,harsh.nair62@gmail.com,5.0,0.4
+1045,Gaurav Saxena,23,Jaipur,Finance,79510,8 Jan 2016,gaurav.saxena81@gmail.com,2.0,10.9
+1161,Anita Rao,28,Delhi ,Marketing,97060,2020-12-20,anita.rao18@gmail.com,2.0,11.4
+1727,Jyoti Pillai,31,pune,IT ,,2024-02-21,jyoti.pillai11@gmail.com,5.0,5.8
+1629,Rajesh Iyer,30,Chennai,Marketing,111200,6/7/2021,rajesh.iyer49@gmail.com,3.0,13.6
+1288,Divya Verma,46,Delhi,HR,130302,,divya.verma92@gmail.com,4.0,19.9
+1589,Rohan Joshi,38,Nagpur,IT,"₹113,146",16 Jan 2022,rohan.joshi57@gmail.com,2.0,19.4
+2025,Divya Kumar,-25,Delhi,sales,118652,02-03-2025,divya.kumar87@gmail.com,7.0,8.1
+1901,Bhavna Agarwal,38,Delhi ,Marketing,22913,09-08-2021,bhavna.agarwal64@gmail.com,4.0,five
+1473,Kirti Chopra,,Kolkata,Marketing,,4 Jan 2025,kirti.chopra64@gmail.com,2.0,11.3
+1924,Mohit Kumar,45,Mumbai,IT ,147812,2023-06-03,mohit.kumar53@gmail.com,,6.6
+1575,Anita Verma,32,Hyderabad,HR,39689,2025-11-10,anita.verma14@gmail.com,4.0,18.7
+1850,Sneha Iyer,37,Jaipur,Finance,,2017-06-07,sneha.iyer93@gmail.com,4.0,3.3
+1315,Amit Kumar,59,Kolkata,Operations,70785,05-08-2022,amit.kumar53@gmail.com,1.0,19.0
+2023,Meera Rao,twenty five,  Bangalore,Marketing,94778,25-01-2016,meera.rao94@gmail.com,3.0,1.8
+1911,Jyoti Kapoor,57,  Bangalore,Sales,41519,2019-07-03,jyoti.kapoor19@gmail.com,,10.3
+1230,Sneha Iyer,42,Ahmedabad,sales,67617,2/4/2022,sneha.iyer44@gmail.com,3.0,7.5
+1809,Arjun Reddy,23,,HR,144572,2019-03-12,arjun.reddy8@gmail.com,2.0,10.1
+1698,Suresh Reddy,N/A,Delhi ,HR,134637,3 Jan 2015,,4.0,9.4
+1951,Abhishek Saxena,,Mumbai,Operations,35093,11/10/2023,abhishek.saxena11@gmail.com,2.0,11.5
+1711,Rohan Rao,22,Kolkata,sales,111029,2021-12-13,rohan.rao93@gmail.com,3.0,8.0
+1932,Gaurav Kumar,29 yrs,  Bangalore,IT ,88008,5/15/2025,gaurav.kumar19@gmail.com,3.0,13.3
+1877,Sohail Joshi,44,MUMBAI,Operations,80645,06-09-2024,sohail.joshi38@gmail.com,2.0,12.7
+1076,Isha Saxena,twenty five,Jaipur,Marketing,120160,11-05-2019,isha.saxena56@gmail.com,4.0,4.6
+2010,Meera Mehta,25,,Operations,88391,2018-11-21,meera.mehta88@gmail.com,3.0,10.4
+1633,Divya Patel,30,MUMBAI,IT,24212,6/8/2022,divya.patel55@gmail.com,1.0,18.4
+1120,Sohail Desai,33,Delhi ,HR,104972,,sohail.desai38@gmail.com,2.0,17.1
+1247,Meera Verma,,Nagpur,Hr,59936,24 Jan 2018,meera.verma53@gmail.com,5.0,3.7
+1819,Arjun Kumar,40,  Bangalore,Operations,128560,8/11/2022,arjun.kumar13@gmail.com,2.0,3.0
+1824,Shreya Verma,50,pune,Hr,,2024-01-24,shreya.verma26@gmail.com,4.0,13.9
+1476,Ritu Kapoor,41,Pune,Operations,"₹94,949",8 Jan 2015,ritu.kapoor10@gmail.com,2.0,6.2
+1875,Amit Desai,58,MUMBAI,HR,31925,2022-06-18,amit.desai33@gmail.com,3.0,11.9
+1670,Yash Pillai,33,Mumbai,Sales,74870,23 Jan 2019,yash.pillai17@gmail.com,4.0,
+1085,Sandeep Chopra,,Bangalore,Marketing,120421,8 Jan 2022,sandeep.chopra38@gmail.com,1.0,10.8
+1469,Swati Patel,28,  Bangalore,Hr,135117,2021-04-20,swati.patel88@gmail.com,3.0,14.2
+1225,Rohan Gupta,25 yrs,  Bangalore,IT ,83265,15-11-2024,rohan.gupta46@gmail.com,2.0,9.8
+1888,Sneha Nair,twenty five,Bangalore,Finance,77133.00 INR,2019-03-08,sneha.nair9@gmail.com,1.0,11.5
+1774,Nisha Singh,27,pune,Marketing,118448,2017-09-20,nisha.singh7@gmail.com,4.0,18.0
+1331,Pooja Chopra,40,Jaipur,HR,not disclosed,2015-04-03,,5.0,6.8
+1233,Kavita Agarwal,29,Delhi,Operations,70418,10/23/2021,kavita.agarwal44@gmail.com,4.0,2.8
+1588,Simran Verma,45,Jaipur,IT,94304,8/4/2025,simran.verma40@gmail.com,1.0,9.1
+1475,Komal Nair,50,Pune,Sales,62336,09-07-2021,komal.nair64@gmail.com,1.0,4.5
+2024,Arjun Pillai,53,Jaipur,Marketing,95569,03-08-2021,arjun.pillai12@gmail.com,1.0,1.0
+2001,Rakesh Pillai,42,Hyderabad,HR,97217,08-12-2018,rakesh.pillai88@gmail.com,2.0,18.8
+1599,Simran Chopra,59,Mumbai,IT ,106455,21-07-2025,simran.chopra13@gmail.com,1.0,0.3
+1421,Gaurav Kumar,,Jaipur,Operations,34526,4/17/2017,gaurav.kumar84@gmail.com,5.0,15.9
+1687,Rakesh Kapoor,,MUMBAI,HR,"₹97,095",2021-04-27,rakesh.kapoor42@gmail.com,1.0,9.2
+1182,Vivek Rao,25,Jaipur,IT,41544,2022-08-11,vivek.rao99@gmail.com,3.0,17.0
+1617,Suresh Singh,N/A,MUMBAI,Operations,90458,28-12-2015,suresh.singh6@gmail.com,3.0,five
+1332,Amit Desai,41,Mumbai,IT,142948,05-11-2023,,5.0,6.2
+1438,Meera Rao,32,  Bangalore,IT,112324,6/19/2019,meera.rao58@gmail.com,3.0,18.4
+1049,Mohit Malhotra,56,Pune,Operations,35194,27 Jan 2021,mohit.malhotra70@gmail.com,1.0,7.2
+2008,Sandeep Mehta,38,Ahmedabad,IT ,124412,2020-12-27,sandeep.mehta17@gmail.com,5.0,19.4
+1005,Rekha Rao,30 yrs,Jaipur,Hr,96622,2021-10-13,rekha.rao18@gmail.com,1.0,17.2
+1529,Priya Singh,41,Hyderabad,Marketing,107285,11/4/2022,priya.singh82@gmail.com,1.0,6.7
+1234,Naveen Desai,56,  Bangalore,Hr,46330,23-10-2018,naveen.desai87@gmail.com,2.0,13.9
+1486,Manish Gupta,,pune,IT,47556,2019-08-08,manish.gupta22@gmail.com,5.0,17.6
+2035,Anita Pillai,54,Pune,Hr,"₹115,258",15-06-2025,anita.pillai93@gmail.com,3.0,9.3
+1497,Rohan Gupta,32,Pune,sales,,10-07-2016,rohan.gupta68@gmail.com,,five
+1884,Divya Malhotra,45,Pune,Finance,108252,26 Jan 2022,divya.malhotra3@gmail.com,5.0,8.8
+2031,Rohan Pillai,52,Bangalore,Sales,114574,14 Jan 2016,,2.0,10.6
+1106,Sunita Malhotra,25,MUMBAI,sales,80875,20-06-2018,sunita.malhotra41@gmail.com,3.0,2.6
+1443,Isha Pillai,52,Jaipur,Hr,,03-09-2020,isha.pillai61@gmail.com,5.0,6.9
+1930,Ritu Iyer,28,MUMBAI,sales,,10/7/2021,ritu.iyer74@gmail.com,5.0,13.4
+1488,Divya Mehta,38,  Bangalore,Hr,136108,24-04-2022,divya.mehta85@gmail.com,2.0,15.0
+1646,Sohail Agarwal,33,Bangalore,Finance,117275,2017-07-27,sohail.agarwal12@gmail.com,1.0,16.2
+1012,Rajesh Rao,24,pune,IT,"₹115,448",08-02-2020,rajesh.rao18@gmail.com,3.0,17.5
+1738,Suresh Chopra,39,Bangalore,HR,59943,12/15/2022,suresh.chopra89@gmail.com,5.0,7.7
+1772,Suresh Patel,59,  Bangalore,IT ,63090,16 Jan 2023,,3.0,3.0
+1190,Vishal Chopra,57,Mumbai,Marketing,126220,10-09-2022,,,0.4
+1347,Sameer Nair,26,Ahmedabad,IT,102662,11/3/2025,sameer.nair75@gmail.com,1.0,10.7
+1832,Vikram Agarwal,41,Kolkata,sales,59353,18 Jan 2022,vikram.agarwal76@gmail.com,3.0,17.6
+1282,Ajay Rao,29,Ahmedabad,Sales,,15 Jan 2020,ajay.rao35@gmail.com,2.0,14.0
+1029,Simran Bhat,31,MUMBAI,sales,52406,5/25/2025,simran.bhat31@gmail.com,1.0,4.7
+1169,Yash Sharma,31,Kolkata,Marketing,39840,2021-10-22,yash.sharma13@gmail.com,1.0,7.7
+1180,Mohit Malhotra,40,Delhi,Marketing,145984,23-03-2015,,5.0,17.9
+1100,Tanvi Gupta,37,MUMBAI,Finance,84382,5 Jan 2018,tanvi.gupta92@gmail.com,1.0,19.4
+1197,Shreya Saxena,51,,HR,76911,04-01-2017,shreya.saxena53@gmail.com,5.0,5.6
+1495,Ananya Kumar,29,Bangalore,Sales,106356,2020-06-08,ananya.kumar52@gmail.com,5.0,11.7
+1721,Sunita Chopra,42,pune,Sales,43426,,sunita.chopra82@gmail.com,,14.6
+1647,Aman Chopra,57,Ahmedabad,Operations,115679,16-09-2025,aman.chopra61@gmail.com,3.0,11.2
+1987,Preeti Mehta,,  Bangalore,Hr,,09-07-2016,,3.0,8.0
+1044,Simran Joshi,24,Nagpur,IT,47235,4/9/2025,simran.joshi23@gmail.com,2.0,
+1661,Ananya Nair,59,Pune,Operations,131095,,,,12.8
+1710,Amit Kumar,41,Chennai,Sales,33711,28 Jan 2025,amit.kumar61@gmail.com,1.0,7.2
+1373,Preeti Kumar,21,Hyderabad,Sales,116138,2023-01-14,preeti.kumar90@gmail.com,4.0,1.7
+1678,Karan Desai,56,pune,Sales,102219,2015-04-05,karan.desai29@gmail.com,3.0,9.7
+2019,Komal Gupta,49,Nagpur,sales,,03-08-2017,komal.gupta86@gmail.com,4.0,18.2
+1648,Sohail Patel,45,  Bangalore,IT,not disclosed,2019-02-04,,1.0,18.8
+1797,Yash Agarwal,25,Mumbai,sales,48622,2/28/2020,yash.agarwal48@gmail.com,4.0,17.6
+1847,Mohit Kapoor,23,Jaipur,Marketing,84417,23-06-2015,mohit.kapoor66@gmail.com,2.0,3.0
+1460,Jyoti Pillai,,Ahmedabad,Sales,95112,15 Jan 2019,jyoti.pillai61@gmail.com,5.0,2.8
+1908,Gaurav Chopra,40,Bangalore,IT ,141962,22-05-2018,gaurav.chopra20@gmail.com,1.0,five
+1413,Vikram Reddy,38,  Bangalore,HR,98804,08-07-2018,vikram.reddy32@gmail.com,3.0,11.2
+1131,Mohit Malhotra,41,MUMBAI,HR,44101,8/8/2023,mohit.malhotra91@gmail.com,4.0,11.2
+1039,Rakesh Kapoor,36,MUMBAI,sales,22260,2016-05-08,rakesh.kapoor85@gmail.com,4.0,6.9
+1434,Anjali Malhotra,N/A,  Bangalore,IT ,57347,05-11-2025,anjali.malhotra56@gmail.com,3.0,12.1
+1973,Komal Agarwal,39,  Bangalore,sales,"₹88,447",3/18/2019,komal.agarwal82@gmail.com,2.0,11.3
+1215,Arjun Mehta,57,Kolkata,HR,83908,06-11-2020,,2.0,3.4
+2007,Shreya Bhat,48,Hyderabad,Operations,96489,7/26/2023,shreya.bhat36@gmail.com,2.0,14.1
+1555,Swati Chopra,32,Ahmedabad,IT,106019,2022-03-05,swati.chopra46@gmail.com,2.0,5.7
+1566,Aman Singh,58,,Hr,112766,10 Jan 2023,aman.singh35@gmail.com,2.0,10.7
+1762,Rajesh Reddy,26,Delhi ,sales,34679,2022-01-01,rajesh.reddy13@gmail.com,3.0,8.7
+1474,Sunita Saxena,25,Nagpur,IT,not disclosed,4/17/2024,sunita.saxena87@gmail.com,,13.6
+1456,Bhavna Agarwal,45,Ahmedabad,IT,96332,15-06-2018,bhavna.agarwal53@gmail.com,7.0,five
+1811,Nisha Bhat,,MUMBAI,Operations,38807,,,,11.3
+1260,Priya Reddy,53,pune,HR,43255,,priya.reddy65@gmail.com,1.0,2.6
+1035,Rohan Saxena,28,Delhi ,Finance,not disclosed,22 Jan 2019,rohan.saxena92@gmail.com,5.0,12.5
+1827,Shreya Saxena,twenty five,Nagpur,sales,63371,20-02-2025,shreya.saxena26@gmail.com,1.0,14.4
+1309,Vishal Saxena,50,pune,IT,55561,12 Jan 2025,,4.0,7.6
+1276,Rakesh Nair,56,Hyderabad,Marketing,145717.00 INR,,rakesh.nair18@gmail.com,5.0,6.3
+1636,Swati Iyer,44,Mumbai,Finance,,3/13/2021,swati.iyer98@gmail.com,4.0,1.7
+1654,Rajesh Bhat,21,  Bangalore,Sales,"₹36,608",,rajesh.bhat84@gmail.com,3.0,8.0
+1622,Meera Iyer,,Kolkata,Sales,89584,09-06-2022,meera.iyer46@gmail.com,2.0,8.6
+1844,Sandeep Verma,29,Kolkata,IT,33402.00 INR,23-03-2023,sandeep.verma46@gmail.com,4.0,1.4
+1393,Shreya Singh,N/A,Mumbai,Marketing,93224,27 Jan 2024,shreya.singh92@gmail.com,1.0,18.3
+1107,Ananya Desai,41,Jaipur,Finance,38465,10 Jan 2016,ananya.desai54@gmail.com,2.0,18.7
+1349,Preeti Singh,39,Delhi ,Sales,30814,3 Jan 2017,preeti.singh17@gmail.com,3.0,0.3
+1524,Preeti Verma,N/A,Ahmedabad,IT ,149354,8/16/2019,preeti.verma44@gmail.com,3.0,16.3
+1784,Rekha Mehta,43,Delhi ,sales,63747,10/18/2020,rekha.mehta30@gmail.com,3.0,14.4
+1047,Anita Saxena,,Hyderabad,Finance,,19 Jan 2025,anita.saxena87@gmail.com,5.0,
+1203,Aman Saxena,47,Delhi,HR,96372,2/19/2016,aman.saxena69@gmail.com,4.0,13.1
+1021,Rohan Singh,22,Mumbai,Operations,73964,26-12-2025,rohan.singh90@gmail.com,1.0,4.4
+1402,Rekha Malhotra,59,Hyderabad,Hr,120663,04-02-2022,rekha.malhotra81@gmail.com,1.0,1.1
+1989,Abhishek Reddy,47,Mumbai,Operations,84396,15-10-2025,abhishek.reddy30@gmail.com,5.0,2.3
+1741,Divya Nair,28,pune,sales,139629,1/27/2025,divya.nair68@gmail.com,2.0,0.7
+1033,Payal Singh,twenty five,Hyderabad,sales,119775,25 Jan 2021,payal.singh11@gmail.com,5.0,five
+1787,Nikhil Malhotra,46 yrs,Delhi,Finance,147237,2016-06-08,,3.0,
+1923,Amit Pillai,56,MUMBAI,IT,24257,08-06-2025,amit.pillai38@gmail.com,,18.8
+2043,Yash Nair,32,Delhi ,HR,110293,2023-11-19,yash.nair15@gmail.com,4.0,1.3
+1049,Mohit Malhotra,56,Pune,Operations,35194,27 Jan 2021,mohit.malhotra70@gmail.com,1.0,7.2
+1579,Nikhil Chopra,29,Bangalore,Hr,139662,4/7/2021,,2.0,0.5
+1481,Rakesh Saxena,36,Mumbai,Sales,not disclosed,9/21/2021,rakesh.saxena70@gmail.com,2.0,12.1
+1931,Sohail Verma,36,MUMBAI,IT,37427,2018-05-04,sohail.verma92@gmail.com,1.0,6.8
+1356,Meera Singh,50,pune,sales,56226,12/22/2021,meera.singh21@gmail.com,3.0,7.7
+1759,Yash Kumar,30,Jaipur,IT,,18-03-2015,,2.0,4.0
+1092,Ajay Kapoor,,Chennai,IT ,107584,12-09-2016,ajay.kapoor65@gmail.com,5.0,7.8
+1803,Sunita Kapoor,54,  Bangalore,Operations,25861,15 Jan 2018,sunita.kapoor92@gmail.com,2.0,11.4
+1745,Swati Agarwal,,Hyderabad,IT,78017,4/19/2025,swati.agarwal59@gmail.com,3.0,12.0
+1279,Anita Malhotra,50,pune,HR,141709,2020-07-21,anita.malhotra10@gmail.com,,6.3
+1764,Divya Kumar,23,Pune,Marketing,106632,2019-06-20,divya.kumar23@gmail.com,5.0,14.8
+1604,Manish Bhat,41,Jaipur,Sales,102430,2024-03-01,manish.bhat11@gmail.com,1.0,2.6
+1439,Kavita Reddy,59,Bangalore,IT,22348,,kavita.reddy59@gmail.com,5.0,6.1
+1400,Suresh Bhat,48,Jaipur,sales,68161,2017-01-22,suresh.bhat57@gmail.com,1.0,7.9
+1257,Meera Iyer,42,MUMBAI,sales,97436,2017-11-27,meera.iyer17@gmail.com,2.0,10.3
+1944,Vishal Patel,31,Kolkata,HR,89865,27 Jan 2017,vishal.patel98@gmail.com,1.0,2.2
+1494,Rakesh Reddy,54,Nagpur,sales,80476,2/11/2020,rakesh.reddy90@gmail.com,4.0,11.2
+1772,Ananya Kapoor,55,Mumbai,sales,35765,10-12-2023,ananya.kapoor58@gmail.com,1.0,19.4
+1550,Rohan Agarwal,twenty five,MUMBAI,sales,21401,17 Jan 2021,rohan.agarwal64@gmail.com,5.0,8.1
+1201,Amit Agarwal,51,Bangalore,Sales,138024,22 Jan 2023,amit.agarwal97@gmail.com,2.0,16.2
+1312,Isha Kumar,N/A,Hyderabad,Marketing,95090,10 Jan 2017,isha.kumar70@gmail.com,2.0,13.7
+1290,Swati Reddy,24,  Bangalore,IT,76906,1/6/2020,swati.reddy51@gmail.com,1.0,11.6
+1763,Rekha Joshi,26,pune,IT ,22077,21 Jan 2019,,2.0,2.6
+1949,Sohail Iyer,26,Ahmedabad,sales,"₹114,492",9/3/2025,sohail.iyer22@gmail.com,3.0,
+1183,Anita Singh,40,  Bangalore,Sales,132272,3/3/2020,anita.singh51@gmail.com,3.0,19.8
+1368,Sunita Pillai,31,pune,Sales,57363,09-07-2018,sunita.pillai98@gmail.com,1.0,18.5
+2030,Nikhil Bhat,44,Hyderabad,HR,23544,2/24/2019,,1.0,7.2
+1250,Simran Singh,,Jaipur,IT ,67118,24-11-2017,simran.singh58@gmail.com,3.0,2.2
+1823,Preeti Kapoor,44,  Bangalore,Hr,88214,11 Jan 2015,,3.0,19.9
+1940,Jyoti Reddy,27,Pune,IT ,not disclosed,15 Jan 2025,jyotireddygmail.com,5.0,16.1
+1391,Vivek Rao,29,Chennai,Finance,103394,10-01-2020,vivek.rao10@gmail.com,2.0,12.0
+1904,Pooja Pillai,52,Hyderabad,IT ,50816,4/20/2019,pooja.pillai77@gmail.com,4.0,2.0
+1730,Rajesh Saxena,44,pune,Operations,89796,2021-04-28,rajesh.saxena37@gmail.com,4.0,17.5
+1554,Rakesh Singh,21,Delhi,Marketing,"₹87,412",4 Jan 2017,,3.0,7.9
+1366,Anjali Pillai,34,Mumbai,Hr,51359,,anjali.pillai64@gmail.com,1.0,15.7
+1345,Sohail Patel,48 yrs,  Bangalore,IT ,79558,7/18/2023,sohail.patel29@gmail.com,5.0,
+1535,Nikhil Malhotra,54,MUMBAI,Marketing,91828,05-02-2021,nikhil.malhotra7@gmail.com,3.0,3.3
+1919,Meera Desai,55,Kolkata,sales,56477,26-06-2016,meera.desai25@gmail.com,3.0,18.2
+1211,Vivek Nair,40,Jaipur,Marketing,125569,22-07-2024,vivek.nair4@gmail.com,3.0,8.4
+1502,Sameer Bhat,-31,Delhi,Hr,62731,06-08-2021,sameer.bhat60@gmail.com,,13.5
+1537,Sneha Gupta,51,Mumbai,IT,105209,14 Jan 2020,sneha.gupta52@gmail.com,1.0,9.8
+1175,Vishal Sharma,43,Ahmedabad,Finance,36637,12/4/2019,,3.0,5.3
