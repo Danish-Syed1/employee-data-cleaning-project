@@ -55,4 +55,4 @@ The cleaning followed a deliberate order, since each step depends on the one bef
 - `Pandas_Challenge.ipynb` — full cleaning workflow with step-by-step code
 - `messy_employee_data.csv` — original raw dataset
 - `cleaned_employee_data.csv` — final cleaned dataset
-  <img width="1920" height="1080" alt="Screenshot 2026-07-06 023425" src="https://github.com/user-attachments/assets/fac2b77a-c922-4df8-ba8f-68c95fce18bc" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 023425" src="https://github.com/user-attachments/assets/fac2b77a-c922-4df8-ba8f-68c95fce18bc" />
