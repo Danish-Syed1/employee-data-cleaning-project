@@ -20,6 +20,7 @@ Clean a raw dataset containing duplicates, missing values, inconsistent formatti
 | PerformanceRating | Missing values, out-of-range values (7, on a 1–5 scale) |
 | ExperienceYears | Missing values, text values ("five") |
 | — | 39 exact duplicate rows across the dataset |
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 023739" src="https://github.com/user-attachments/assets/6dd14cc0-964e-44bb-b5e0-d96849bb144d" />
 
 ## 🧹 Cleaning Process
 
@@ -42,6 +43,7 @@ The cleaning followed a deliberate order, since each step depends on the one bef
 - Not all missing values should be filled the same way — the right strategy depends on whether a column is numeric, categorical, or a unique identifier.
 - Verifying assumptions against the actual data (e.g., checking a date value with day > 12 to confirm format) is safer than assuming a standard format upfront.
 - Sometimes the most honest choice is to leave data missing rather than fabricate a plausible-looking value.
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 023425" src="https://github.com/user-attachments/assets/fac2b77a-c922-4df8-ba8f-68c95fce18bc" />
 
 ## 🛠️ Tools Used
 
